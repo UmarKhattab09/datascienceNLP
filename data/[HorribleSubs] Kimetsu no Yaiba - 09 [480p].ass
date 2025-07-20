@@ -1,0 +1,310 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: OS,Open Sans Semibold,33,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,1,0,0,0,100,100,0,0,1,2,1,8,1,1,20,0
+Style: Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: On Top,Open Sans Semibold,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,1,0,0,0,100,100,0,0,1,2,1,8,27,27,29,0
+Style: DefaultLow,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultMed,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultHigh,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultLTop,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,7,0,0,28,0
+Style: DefaultRHigh,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,1,0,0,28,0
+Style: DefaultRaisedL,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultRaisedR,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultTopR,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,9,0,0,28,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:03.06,0:00:05.69,Default,NTP,0000,0000,0000,,How should we kill them, I wonder.
+Dialogue: 0,0:00:07.52,0:00:09.57,Default,NTP,0000,0000,0000,,I can feel the flow of power.
+Dialogue: 0,0:00:09.94,0:00:13.57,Default,NTP,0000,0000,0000,,Because of all the blood\Nhe shared with me.
+Dialogue: 0,0:00:14.78,0:00:18.53,Default,NTP,0000,0000,0000,,Of course we're going to\Nslay them vindictively.
+Dialogue: 0,0:00:20.49,0:00:21.12,Default,NTP,0000,0000,0000,,Get down!
+Dialogue: 0,0:00:34.43,0:00:36.30,Default,NTP,0000,0000,0000,,Did you decide how to kill them?
+Dialogue: 0,0:00:36.55,0:00:38.68,Default,NTP,0000,0000,0000,,Vindictively, of course!
+Dialogue: 0,0:02:24.95,0:02:30.00,Default,NTP,0000,0000,0000,,EPISODE 9:\NTEMARI DEMON AND ARROW DEMON
+Dialogue: 0,0:02:44.14,0:02:46.27,Default,NTP,0000,0000,0000,,You were right, Yahaba!
+Dialogue: 0,0:02:46.56,0:02:50.35,Default,NTP,0000,0000,0000,,A building just appeared out of nowhere!
+Dialogue: 0,0:02:51.85,0:02:56.40,Default,NTP,0000,0000,0000,,The handiwork of a Blood Demon Arts\Nwielder adept at hiding objects.
+Dialogue: 0,0:02:57.82,0:03:01.70,Default,NTP,0000,0000,0000,,And is the demon hunter\Naccompanied by a demon?
+Dialogue: 0,0:03:02.28,0:03:03.78,Default,NTP,0000,0000,0000,,What's going on here?
+Dialogue: 0,0:03:05.62,0:03:07.04,Default,NTP,0000,0000,0000,,Isn't this fun?
+Dialogue: 0,0:03:08.75,0:03:10.50,Default,NTP,0000,0000,0000,,Still, I have to say, Susamaru...
+Dialogue: 0,0:03:11.29,0:03:13.96,Default,NTP,0000,0000,0000,,Your way of doing things\Nis so immature.
+Dialogue: 0,0:03:14.54,0:03:16.17,Default,NTP,0000,0000,0000,,So careless.
+Dialogue: 0,0:03:16.59,0:03:17.71,Default,NTP,0000,0000,0000,,You splattered me!
+Dialogue: 0,0:03:18.09,0:03:20.47,Default,NTP,0000,0000,0000,,You splattered my kimono with dust!
+Dialogue: 0,0:03:21.51,0:03:23.14,Default,NTP,0000,0000,0000,,Oh, stop whining!
+Dialogue: 0,0:03:23.47,0:03:27.77,Default,NTP,0000,0000,0000,,We found them right away\Nthanks to my temari, so who cares?
+Dialogue: 0,0:03:28.02,0:03:30.14,Default,NTP,0000,0000,0000,,And now we can have tons of fun!
+Dialogue: 0,0:03:36.44,0:03:38.28,Default,NTP,0000,0000,0000,,You've gone and splattered me again!
+Dialogue: 0,0:03:38.53,0:03:40.07,Default,NTP,0000,0000,0000,,You're so uptight.
+Dialogue: 0,0:03:40.32,0:03:42.74,Default,NTP,0000,0000,0000,,Your kimono isn't the least bit soiled.
+Dialogue: 0,0:03:43.32,0:03:44.66,Default,NTP,0000,0000,0000,,And besides...
+Dialogue: 0,0:03:51.54,0:03:53.96,Default,NTP,0000,0000,0000,,{\an8}Found 'em! Found 'em!
+Dialogue: 0,0:03:55.33,0:03:56.17,Default,NTP,0000,0000,0000,,{\i1}A temari!{\i0}
+Dialogue: 0,0:03:57.09,0:03:58.25,Default,NTP,0000,0000,0000,,{\i1}So, she caused all this damage{\i0}
+Dialogue: 0,0:03:58.50,0:04:00.46,Default,NTP,0000,0000,0000,,{\i1}by throwing that temari?{\i0}
+Dialogue: 0,0:04:02.97,0:04:04.18,Default,NTP,0000,0000,0000,,{\i1}That woman...{\i0}
+Dialogue: 0,0:04:04.43,0:04:06.14,Default,NTP,0000,0000,0000,,{\i1}Is she one of Kibutsuji's minions?{\i0}
+Dialogue: 0,0:04:20.36,0:04:21.19,Default,NTP,0000,0000,0000,,Lady Tamayo!
+Dialogue: 0,0:04:26.91,0:04:27.95,Default,NTP,0000,0000,0000,,Yushiro!
+Dialogue: 0,0:04:30.20,0:04:31.08,Default,NTP,0000,0000,0000,,Dammit!
+Dialogue: 0,0:04:31.33,0:04:32.04,Default,NTP,0000,0000,0000,,Nezuko!
+Dialogue: 0,0:04:32.29,0:04:36.33,Default,NTP,0000,0000,0000,,Take the lady sleeping in the back room\Nsomewhere safe outside!
+Dialogue: 0,0:04:37.63,0:04:39.09,Default,NTP,0000,0000,0000,,It's too dangerous outside!
+Dialogue: 0,0:04:39.34,0:04:41.34,Default,NTP,0000,0000,0000,,We have a basement, so take her there!
+Dialogue: 0,0:04:41.71,0:04:42.67,Default,NTP,0000,0000,0000,,Understood!
+Dialogue: 0,0:04:43.13,0:04:44.01,Default,NTP,0000,0000,0000,,Nezuko!
+Dialogue: 0,0:04:48.64,0:04:50.60,Default,NTP,0000,0000,0000,,That's one down!
+Dialogue: 0,0:04:51.68,0:04:55.23,Default,NTP,0000,0000,0000,,{\i1}She's giving off a totally different scent\Nthan any of the other demons!{\i0}
+Dialogue: 0,0:04:55.69,0:04:58.40,Default,NTP,0000,0000,0000,,{\i1}Is it stronger?\NIt's a really thick scent!{\i0}
+Dialogue: 0,0:04:58.40,0:05:00.73,Default,NTP,0000,0000,0000,,{\i1}It feels so heavy\Nonce it enters my lungs!{\i0}
+Dialogue: 0,0:05:10.03,0:05:13.75,Default,NTP,0000,0000,0000,,The demon hunter\Nwearing hanafuda-like earrings...
+Dialogue: 0,0:05:14.00,0:05:15.71,Default,NTP,0000,0000,0000,,It's you, isn't it?
+Dialogue: 0,0:05:16.83,0:05:18.42,Default,NTP,0000,0000,0000,,{\i1}So, I'm the one they're targeting?{\i0}
+Dialogue: 0,0:05:19.29,0:05:20.13,Default,NTP,0000,0000,0000,,Miss Tamayo!
+Dialogue: 0,0:05:20.38,0:05:22.55,Default,NTP,0000,0000,0000,,Please find a place to hide!
+Dialogue: 0,0:05:22.84,0:05:24.92,Default,NTP,0000,0000,0000,,I'm the one those demons are after!
+Dialogue: 0,0:05:25.30,0:05:29.72,Default,NTP,0000,0000,0000,,Tanjiro, I want you to fight\Nwithout worrying about us.
+Dialogue: 0,0:05:30.26,0:05:32.35,Default,NTP,0000,0000,0000,,We'll be fine without your protection.
+Dialogue: 0,0:05:34.98,0:05:36.39,Default,NTP,0000,0000,0000,,Since we're demons.
+Dialogue: 0,0:05:37.52,0:05:39.48,Default,NTP,0000,0000,0000,,All right.
+Dialogue: 0,0:05:40.02,0:05:42.27,Default,NTP,0000,0000,0000,,It's all over for you now!
+Dialogue: 0,0:05:46.11,0:05:48.49,Default,NTP,0000,0000,0000,,{\i1}That temari will only swerve if I dodge it.{\i0}
+Dialogue: 0,0:05:57.00,0:05:58.92,Default,NTP,0000,0000,0000,,{\i1}Of the ten forms...{\i0}
+Dialogue: 0,0:05:59.46,0:06:01.42,Default,NTP,0000,0000,0000,,{\i1}The fastest thrusting technique...{\i0}
+Dialogue: 0,0:06:01.96,0:06:03.21,Default,NTP,0000,0000,0000,,{\i1}Total Concentration...{\i0}
+Dialogue: 0,0:06:03.46,0:06:04.92,Default,NTP,0000,0000,0000,,{\i1}Water Breathing!{\i0}
+Dialogue: 0,0:06:05.30,0:06:06.34,Default,NTP,0000,0000,0000,,{\i1}Seventh Form,{\i0}
+Dialogue: 0,0:06:06.72,0:06:09.47,Default,NTP,0000,0000,0000,,{\i1}Drop Ripple Thrust-curve!{\i0}
+Dialogue: 0,0:06:12.51,0:06:17.73,Default,NTP,0000,0000,0000,,{\i1}Oh, so you thrust at the curve diagonally\Nto soften the temari's blow.{\i0}
+Dialogue: 0,0:06:18.98,0:06:19.94,Default,NTP,0000,0000,0000,,{\i1}But...{\i0}
+Dialogue: 0,0:06:25.11,0:06:26.99,Default,NTP,0000,0000,0000,,{\i1}How can that temari\Nmove around like that?{\i0}
+Dialogue: 0,0:06:28.07,0:06:29.66,Default,NTP,0000,0000,0000,,{\an8}{\i1}It swerved unnaturally{\i0}
+Dialogue: 0,0:06:29.91,0:06:31.95,Default,NTP,0000,0000,0000,,{\an8}{\i1}when it struck Yushiro, as well!{\i0}
+Dialogue: 0,0:06:32.99,0:06:35.79,Default,NTP,0000,0000,0000,,{\an8}{\i1}It's not like it's spinning\Nin any special way, and yet...{\i0}
+Dialogue: 0,0:06:36.20,0:06:37.20,Default,NTP,0000,0000,0000,,{\an8}{\i1}What is this?{\i0}
+Dialogue: 0,0:06:41.83,0:06:42.96,Default,NTP,0000,0000,0000,,Yushiro!
+Dialogue: 0,0:06:43.84,0:06:45.25,Default,NTP,0000,0000,0000,,Yushiro!
+Dialogue: 0,0:06:56.68,0:06:57.77,Default,NTP,0000,0000,0000,,La...
+Dialogue: 0,0:06:59.31,0:07:00.77,Default,NTP,0000,0000,0000,,Lady Tamayo!
+Dialogue: 0,0:07:01.23,0:07:03.27,Default,NTP,0000,0000,0000,,Didn't I tell you?
+Dialogue: 0,0:07:03.65,0:07:06.07,Default,NTP,0000,0000,0000,,That we shouldn't get involved\Nwith that demon hunter!
+Dialogue: 0,0:07:06.32,0:07:07.69,Default,NTP,0000,0000,0000,,From the start!
+Dialogue: 0,0:07:08.36,0:07:11.49,Default,NTP,0000,0000,0000,,My Blindfold technique\Nis still a work in progress!
+Dialogue: 0,0:07:11.86,0:07:14.78,Default,NTP,0000,0000,0000,,I know you're well aware\Nof that yourself!
+Dialogue: 0,0:07:14.99,0:07:18.29,Default,NTP,0000,0000,0000,,I may be able to conceal the presence\Nof buildings and people, their scent,
+Dialogue: 0,0:07:18.29,0:07:21.17,Default,NTP,0000,0000,0000,,but it's not like I can mask\Ntheir very existence!
+Dialogue: 0,0:07:23.21,0:07:25.67,Default,NTP,0000,0000,0000,,The greater our numbers,\Nthe more traces we'll leave,
+Dialogue: 0,0:07:25.92,0:07:28.88,Default,NTP,0000,0000,0000,,and the greater the odds\Nthat Kibutsuji will discover us!
+Dialogue: 0,0:07:29.97,0:07:32.18,Default,NTP,0000,0000,0000,,{\i1}Those demons got this close to us,{\i0}
+Dialogue: 0,0:07:32.43,0:07:34.89,Default,NTP,0000,0000,0000,,{\i1}yet there was no scent\Nuntil we came under attack!{\i0}
+Dialogue: 0,0:07:35.97,0:07:38.35,Default,NTP,0000,0000,0000,,{\i1}That was Yushiro's Blood Demon Art, huh?{\i0}
+Dialogue: 0,0:07:39.52,0:07:43.06,Default,NTP,0000,0000,0000,,{\an8}Anyone who ruins the time\NI spend alone with you...
+Dialogue: 0,0:07:43.48,0:07:45.19,Default,NTP,0000,0000,0000,,{\an8}I despise such people!
+Dialogue: 0,0:07:46.15,0:07:47.94,Default,NTP,0000,0000,0000,,I despise them with passion!
+Dialogue: 0,0:07:49.11,0:07:50.95,Default,NTP,0000,0000,0000,,It's unforgivable!
+Dialogue: 0,0:07:54.24,0:07:56.12,Default,NTP,0000,0000,0000,,Hey, he's babbling!
+Dialogue: 0,0:07:57.83,0:07:59.29,Default,NTP,0000,0000,0000,,What fun this is!
+Dialogue: 0,0:07:59.54,0:08:01.16,Default,NTP,0000,0000,0000,,What fun this is!
+Dialogue: 0,0:08:01.83,0:08:05.04,Default,NTP,0000,0000,0000,,To be killed by me,\None of the Twelve Demon Moons...
+Dialogue: 0,0:08:05.33,0:08:07.55,Default,NTP,0000,0000,0000,,You should be honored!
+Dialogue: 0,0:08:08.13,0:08:10.05,Default,NTP,0000,0000,0000,,Twelve Demon Moons?
+Dialogue: 0,0:08:10.63,0:08:12.63,Default,NTP,0000,0000,0000,,They serve directly under Kibutsuji!
+Dialogue: 0,0:08:21.31,0:08:22.56,Default,NTP,0000,0000,0000,,{\i1}She grew more arms!{\i0}
+Dialogue: 0,0:08:27.40,0:08:30.36,Default,NTP,0000,0000,0000,,Now then, let's keep playing!
+Dialogue: 0,0:08:30.61,0:08:32.40,Default,NTP,0000,0000,0000,,Until morning comes!
+Dialogue: 0,0:08:32.65,0:08:34.66,Default,NTP,0000,0000,0000,,Until you die!
+Dialogue: 0,0:08:44.79,0:08:46.63,Default,NTP,0000,0000,0000,,{\an8}{\i1}If I were to cast my spell now,{\i0}
+Dialogue: 0,0:08:46.88,0:08:48.92,Default,NTP,0000,0000,0000,,{\an8}{\i1}it would affect Tanjiro, as well.{\i0}
+Dialogue: 0,0:08:49.75,0:08:53.26,Default,NTP,0000,0000,0000,,{\an8}{\i1}And Yushiro needs time to prepare\Nto switch to attack mode.{\i0}
+Dialogue: 0,0:08:54.26,0:08:55.51,Default,NTP,0000,0000,0000,,{\i1}But if this goes on...{\i0}
+Dialogue: 0,0:08:59.22,0:09:00.06,Default,NTP,0000,0000,0000,,{\i1}There it is again!{\i0}
+Dialogue: 0,0:09:00.31,0:09:03.10,Default,NTP,0000,0000,0000,,{\i1}Even without hitting anything,\Nthey changed trajectory!{\i0}
+Dialogue: 0,0:09:07.98,0:09:10.40,Default,NTP,0000,0000,0000,,{\i1}If I go ahead and slash them,\Nit blunts the blow,{\i0}
+Dialogue: 0,0:09:10.65,0:09:12.65,Default,NTP,0000,0000,0000,,{\i1}but then they hit me anyway!{\i0}
+Dialogue: 0,0:09:17.20,0:09:18.66,Default,NTP,0000,0000,0000,,{\i1}Two different scents of blood.{\i0}
+Dialogue: 0,0:09:19.49,0:09:20.78,Default,NTP,0000,0000,0000,,{\i1}There are two demons!{\i0}
+Dialogue: 0,0:09:21.24,0:09:23.00,Default,NTP,0000,0000,0000,,{\i1}Their scent tells me where they are!{\i0}
+Dialogue: 0,0:09:24.04,0:09:24.96,Default,NTP,0000,0000,0000,,{\an8}{\i1}But...{\i0}
+Dialogue: 0,0:09:29.79,0:09:31.67,Default,NTP,0000,0000,0000,,Miss Tamayo! Yushiro!
+Dialogue: 0,0:09:33.38,0:09:34.17,Default,NTP,0000,0000,0000,,{\i1}It's no good!{\i0}
+Dialogue: 0,0:09:34.55,0:09:36.30,Default,NTP,0000,0000,0000,,{\i1}I don't have time to protect them!{\i0}
+Dialogue: 0,0:09:37.30,0:09:39.18,Default,NTP,0000,0000,0000,,We'll be healed soon enough!
+Dialogue: 0,0:09:39.55,0:09:40.68,Default,NTP,0000,0000,0000,,So don't worry!
+Dialogue: 0,0:09:40.68,0:09:42.85,Default,NTP,0000,0000,0000,,Hey! Moron demon hunter!
+Dialogue: 0,0:09:43.14,0:09:45.98,Default,NTP,0000,0000,0000,,If you look at the arrows,\Nyou can tell which direction they're going!
+Dialogue: 0,0:09:46.35,0:09:47.73,Default,NTP,0000,0000,0000,,Dodge the arrows!
+Dialogue: 0,0:09:48.40,0:09:49.52,Default,NTP,0000,0000,0000,,Arrows?
+Dialogue: 0,0:09:50.69,0:09:53.82,Default,NTP,0000,0000,0000,,Seriously, you can't even see them?
+Dialogue: 0,0:09:54.40,0:09:56.36,Default,NTP,0000,0000,0000,,I'm going to lend you\Nmy sense of sight!
+Dialogue: 0,0:09:56.65,0:09:59.82,Default,NTP,0000,0000,0000,,That should at least enable you\Nto behead that temari woman!
+Dialogue: 0,0:10:12.63,0:10:13.63,Default,NTP,0000,0000,0000,,{\i1}I can see now!{\i0}
+Dialogue: 0,0:10:13.88,0:10:16.22,Default,NTP,0000,0000,0000,,{\i1}She was using these arrows to control...{\i0}
+Dialogue: 0,0:10:18.30,0:10:19.97,Default,NTP,0000,0000,0000,,{\i1}...the trajectory of the temari!{\i0}
+Dialogue: 0,0:10:23.22,0:10:24.52,Default,NTP,0000,0000,0000,,Thanks, Yushiro!
+Dialogue: 0,0:10:24.85,0:10:26.68,Default,NTP,0000,0000,0000,,I can see the arrows now, too!
+Dialogue: 0,0:10:27.56,0:10:29.02,Default,NTP,0000,0000,0000,,Then, hurry up and defeat her!
+Dialogue: 0,0:10:30.52,0:10:31.31,Default,NTP,0000,0000,0000,,Nezuko!
+Dialogue: 0,0:10:31.77,0:10:32.98,Default,NTP,0000,0000,0000,,Nezuko, let's go outside!
+Dialogue: 0,0:10:33.23,0:10:35.19,Default,NTP,0000,0000,0000,,Take care of the demon up in the tree!
+Dialogue: 0,0:10:44.33,0:10:46.20,Default,NTP,0000,0000,0000,,I'm the one you want to take on!
+Dialogue: 0,0:10:47.54,0:10:51.54,Default,NTP,0000,0000,0000,,The demon hunter\Nwearing hanafuda-like earrings...
+Dialogue: 0,0:10:51.79,0:10:53.13,Default,NTP,0000,0000,0000,,No question.
+Dialogue: 0,0:10:53.59,0:10:57.05,Default,NTP,0000,0000,0000,,I'm going to bring\Nthat head of yours to him.
+Dialogue: 0,0:11:01.01,0:11:02.55,Default,NTP,0000,0000,0000,,{\an8}What fun this is!
+Dialogue: 0,0:11:09.52,0:11:11.56,Default,NTP,0000,0000,0000,,{\i1}Nezuko, how much longer?{\i0}
+Dialogue: 0,0:11:24.62,0:11:25.83,Default,NTP,0000,0000,0000,,{\an8}{\i1}They're gone!{\i0}
+Dialogue: 0,0:11:28.16,0:11:29.41,Default,NTP,0000,0000,0000,,Water Breathing...
+Dialogue: 0,0:11:36.92,0:11:40.13,Default,NTP,0000,0000,0000,,Third Form, Flowing Dance!
+Dialogue: 0,0:11:44.14,0:11:45.30,Default,NTP,0000,0000,0000,,Miss Tamayo!
+Dialogue: 0,0:11:45.55,0:11:48.81,Default,NTP,0000,0000,0000,,Are these two demons\Nclosely related to Kibutsuji?
+Dialogue: 0,0:11:49.52,0:11:50.48,Default,NTP,0000,0000,0000,,Most likely.
+Dialogue: 0,0:11:51.06,0:11:55.27,Default,NTP,0000,0000,0000,,Then, I'm going to extract blood\Nfrom them for sure!
+Dialogue: 0,0:11:56.98,0:12:00.99,Default,NTP,0000,0000,0000,,DEMON SLAYER:\NKIMETSU NO YAIBA
+Dialogue: 0,0:12:00.99,0:12:04.99,Default,NTP,0000,0000,0000,,DEMON SLAYER:\NKIMETSU NO YAIBA
+Dialogue: 0,0:12:09.04,0:12:11.87,Default,NTP,0000,0000,0000,,{\i1}I have two favors to ask of you.{\i0}
+Dialogue: 0,0:12:12.37,0:12:16.59,Default,NTP,0000,0000,0000,,{\i1}One, permission to study\Nyour sister's blood.{\i0}
+Dialogue: 0,0:12:16.92,0:12:21.51,Default,NTP,0000,0000,0000,,{\i1}Two, to retrieve\Nblood samples from demons{\i0}
+Dialogue: 0,0:12:21.80,0:12:24.39,Default,NTP,0000,0000,0000,,{\i1}as closely related to Kibutsuji\Nas possible.{\i0}
+Dialogue: 0,0:12:25.18,0:12:27.39,Default,NTP,0000,0000,0000,,{\i1}By "demons closely related to Kibutsuji,"{\i0}
+Dialogue: 0,0:12:27.64,0:12:33.64,Default,NTP,0000,0000,0000,,{\i1}I meant demons whose powers are more\Non par with that of Kibutsuji himself.{\i0}
+Dialogue: 0,0:12:34.23,0:12:37.61,Default,NTP,0000,0000,0000,,{\i1}It won't be easy to extract blood\Nfrom such demons.{\i0}
+Dialogue: 0,0:12:40.36,0:12:43.49,Default,NTP,0000,0000,0000,,Third Form, Flowing Dance!
+Dialogue: 0,0:12:47.45,0:12:48.66,Default,NTP,0000,0000,0000,,Miss Tamayo!
+Dialogue: 0,0:12:48.91,0:12:52.16,Default,NTP,0000,0000,0000,,Are these two demons\Nclosely related to Kibutsuji?
+Dialogue: 0,0:12:52.83,0:12:53.83,Default,NTP,0000,0000,0000,,Most likely.
+Dialogue: 0,0:13:05.84,0:13:08.60,Default,NTP,0000,0000,0000,,You think you're going to extract\Nblood from us?
+Dialogue: 0,0:13:08.89,0:13:12.06,Default,NTP,0000,0000,0000,,I don't know what you're scheming,
+Dialogue: 0,0:13:12.39,0:13:16.90,Default,NTP,0000,0000,0000,,but I won't allow you\Nto do anything to displease him!
+Dialogue: 0,0:13:19.65,0:13:24.11,Default,NTP,0000,0000,0000,,If you think you can extract blood\Nfrom us Twelve Demon Moons,
+Dialogue: 0,0:13:24.36,0:13:26.03,Default,NTP,0000,0000,0000,,then have at it!
+Dialogue: 0,0:13:26.66,0:13:27.78,Default,NTP,0000,0000,0000,,Watch your back!
+Dialogue: 0,0:13:28.03,0:13:30.16,Default,NTP,0000,0000,0000,,Don't let your guard down for a second!
+Dialogue: 0,0:13:30.41,0:13:33.00,Default,NTP,0000,0000,0000,,If those two really are Twelve Demon Moons,
+Dialogue: 0,0:13:33.25,0:13:37.96,Default,NTP,0000,0000,0000,,then they're undeniably more formidable\Nthan any other demon you've killed until now!
+Dialogue: 0,0:13:38.21,0:13:40.09,Default,NTP,0000,0000,0000,,Right! Understood!
+Dialogue: 0,0:13:40.42,0:13:43.21,Default,NTP,0000,0000,0000,,Watch my back, don't let\Nmy guard down for a second,
+Dialogue: 0,0:13:43.21,0:13:44.34,Default,NTP,0000,0000,0000,,undeniably...
+Dialogue: 0,0:13:44.59,0:13:45.88,Default,NTP,0000,0000,0000,,until now...
+Dialogue: 0,0:13:46.18,0:13:47.64,Default,NTP,0000,0000,0000,,Right! I'll do my best!
+Dialogue: 0,0:13:48.76,0:13:49.76,Default,NTP,0000,0000,0000,,Lady Tamayo!
+Dialogue: 0,0:13:50.60,0:13:52.68,Default,NTP,0000,0000,0000,,Let's use those two as decoys\Nand escape!
+Dialogue: 0,0:13:54.60,0:13:55.89,Default,NTP,0000,0000,0000,,I'm just kidding!
+Dialogue: 0,0:14:03.19,0:14:05.78,Default,NTP,0000,0000,0000,,Don't stir up dust like that.
+Dialogue: 0,0:14:06.07,0:14:07.53,Default,NTP,0000,0000,0000,,So filthy!
+Dialogue: 0,0:14:20.71,0:14:24.84,Default,NTP,0000,0000,0000,,{\i1}She grew new arms\Nin such a short time!{\i0}
+Dialogue: 0,0:14:25.67,0:14:29.18,Default,NTP,0000,0000,0000,,{\i1}She can regenerate way faster\Nthan those Final Selection demons!{\i0}
+Dialogue: 0,0:14:31.30,0:14:34.60,Default,NTP,0000,0000,0000,,{\an8}I'm going to bring\Nthat head of yours to him.
+Dialogue: 0,0:14:42.44,0:14:43.23,Default,NTP,0000,0000,0000,,Nezuko!
+Dialogue: 0,0:14:46.28,0:14:50.24,Default,NTP,0000,0000,0000,,{\an8}Now then, why don't you both die at once?
+Dialogue: 0,0:14:54.83,0:14:56.41,Default,NTP,0000,0000,0000,,Are you okay, Nezuko?
+Dialogue: 0,0:14:56.83,0:14:58.29,Default,NTP,0000,0000,0000,,Hey, Demon Hunter!
+Dialogue: 0,0:14:59.25,0:15:01.67,Default,NTP,0000,0000,0000,,You get rid of that arrow man first!
+Dialogue: 0,0:15:01.92,0:15:04.63,Default,NTP,0000,0000,0000,,We'll take on the temari woman\Nwith your sister!
+Dialogue: 0,0:15:04.96,0:15:06.26,Default,NTP,0000,0000,0000,,Understood!
+Dialogue: 0,0:15:06.67,0:15:09.76,Default,NTP,0000,0000,0000,,Nezuko, whatever you do,\Ndon't push yourself too hard.
+Dialogue: 0,0:15:24.57,0:15:25.90,Default,NTP,0000,0000,0000,,I'm counting on you.
+Dialogue: 0,0:15:27.15,0:15:28.19,Default,NTP,0000,0000,0000,,{\an8}{\i1}I swear...{\i0}
+Dialogue: 0,0:15:28.44,0:15:30.03,Default,NTP,0000,0000,0000,,{\an8}{\i1}I'm going to extract their blood!{\i0}
+Dialogue: 0,0:15:30.36,0:15:33.37,Default,NTP,0000,0000,0000,,{\i1}If it means the medicine will be perfected\Neven a minute sooner,{\i0}
+Dialogue: 0,0:15:33.74,0:15:35.45,Default,NTP,0000,0000,0000,,{\i1}I'll gladly fight any demon!{\i0}
+Dialogue: 0,0:15:35.70,0:15:37.37,Default,NTP,0000,0000,0000,,{\i1}I'll fight and win!{\i0}
+Dialogue: 0,0:15:40.29,0:15:41.29,Default,NTP,0000,0000,0000,,{\i1}There it is!{\i0}
+Dialogue: 0,0:15:41.96,0:15:43.54,Default,NTP,0000,0000,0000,,{\i1}Opening Thread!{\i0}
+Dialogue: 0,0:15:44.84,0:15:47.42,Default,NTP,0000,0000,0000,,What a grimy little urchin you are.
+Dialogue: 0,0:15:47.67,0:15:49.30,Default,NTP,0000,0000,0000,,You stay away from me!
+Dialogue: 0,0:15:52.51,0:15:54.80,Default,NTP,0000,0000,0000,,{\i1}The thread snapped!{\i0}
+Dialogue: 0,0:16:11.20,0:16:13.24,Default,NTP,0000,0000,0000,,{\i1}This hurts! I mean this really...{\i0}
+Dialogue: 0,0:16:13.49,0:16:14.87,Default,NTP,0000,0000,0000,,{\i1}It seriously hurts!{\i0}
+Dialogue: 0,0:16:25.63,0:16:26.63,Default,NTP,0000,0000,0000,,{\i1}A move!{\i0}
+Dialogue: 0,0:16:28.46,0:16:31.01,Default,NTP,0000,0000,0000,,{\i1}Unleash a move to blunt the attack!{\i0}
+Dialogue: 0,0:16:31.34,0:16:32.80,Default,NTP,0000,0000,0000,,Eighth Form,
+Dialogue: 0,0:16:33.05,0:16:34.26,Default,NTP,0000,0000,0000,,Waterfall Basin!
+Dialogue: 0,0:16:53.36,0:16:54.41,Default,NTP,0000,0000,0000,,He vanished?
+Dialogue: 0,0:17:05.00,0:17:07.54,Default,NTP,0000,0000,0000,,You hurt Lady Tamayo!
+Dialogue: 0,0:17:07.79,0:17:09.88,Default,NTP,0000,0000,0000,,I'll never forgive you for that!
+Dialogue: 0,0:17:10.84,0:17:12.09,Default,NTP,0000,0000,0000,,Tamayo?
+Dialogue: 0,0:17:12.34,0:17:15.13,Default,NTP,0000,0000,0000,,Hey, Susamaru, the one over there...
+Dialogue: 0,0:17:15.13,0:17:17.60,Default,NTP,0000,0000,0000,,Wouldn't that be Tamayo the Fugitive?
+Dialogue: 0,0:17:18.05,0:17:20.39,Default,NTP,0000,0000,0000,,What a great souvenir she'll make!
+Dialogue: 0,0:17:20.72,0:17:22.64,Default,NTP,0000,0000,0000,,Is that right?
+Dialogue: 0,0:17:27.02,0:17:27.90,Default,NTP,0000,0000,0000,,Idiot!
+Dialogue: 0,0:17:27.90,0:17:29.19,Default,NTP,0000,0000,0000,,You mustn't kick it!
+Dialogue: 0,0:17:39.78,0:17:41.37,Default,NTP,0000,0000,0000,,What fun this is!
+Dialogue: 0,0:17:41.62,0:17:43.16,Default,NTP,0000,0000,0000,,What fun this is!
+Dialogue: 0,0:17:44.21,0:17:45.92,Default,NTP,0000,0000,0000,,I like kemari, too!
+Dialogue: 0,0:17:46.96,0:17:48.13,Default,NTP,0000,0000,0000,,Yahaba!
+Dialogue: 0,0:17:48.54,0:17:51.92,Default,NTP,0000,0000,0000,,Will four heads be enough to take home?
+Dialogue: 0,0:17:52.13,0:17:54.34,Default,NTP,0000,0000,0000,,No. We're taking two.
+Dialogue: 0,0:17:54.92,0:17:57.09,Default,NTP,0000,0000,0000,,The demon hunter and the fugitive.
+Dialogue: 0,0:17:57.68,0:17:59.85,Default,NTP,0000,0000,0000,,We have no use for the other two.
+Dialogue: 0,0:18:02.35,0:18:03.47,Default,NTP,0000,0000,0000,,Nezuko...
+Dialogue: 0,0:18:04.52,0:18:06.69,Default,NTP,0000,0000,0000,,{\i1}The bleeding isn't stopping instantly.{\i0}
+Dialogue: 0,0:18:07.27,0:18:08.77,Default,NTP,0000,0000,0000,,{\i1}She's recovering so slowly.{\i0}
+Dialogue: 0,0:18:10.52,0:18:13.82,Default,NTP,0000,0000,0000,,This medicine will help heal your leg\Nright away, all right?
+Dialogue: 0,0:18:25.16,0:18:26.33,Default,NTP,0000,0000,0000,,{\i1}What should I do?{\i0}
+Dialogue: 0,0:18:27.54,0:18:29.04,Default,NTP,0000,0000,0000,,{\i1}I can't lose no matter what!{\i0}
+Dialogue: 0,0:18:30.42,0:18:34.09,Default,NTP,0000,0000,0000,,{\i1}But even if I can see the Opening Thread,\Nit won't be easy to slash him!{\i0}
+Dialogue: 0,0:18:35.42,0:18:38.13,Default,NTP,0000,0000,0000,,{\i1}Any move would be pointless{\i0}
+Dialogue: 0,0:18:38.38,0:18:41.01,Default,NTP,0000,0000,0000,,{\i1}unless I can land my blow\Nin the opening with pinpoint accuracy!{\i0}
+Dialogue: 0,0:18:41.76,0:18:45.77,Default,NTP,0000,0000,0000,,{\i1}If I'm off by even a little,\Nthe move won't be nearly as potent!{\i0}
+Dialogue: 0,0:18:46.52,0:18:50.65,Default,NTP,0000,0000,0000,,{\i1}He'll only change the sword's direction\Nusing his arrow skills!{\i0}
+Dialogue: 0,0:18:52.44,0:18:54.65,Default,NTP,0000,0000,0000,,{\i1}And I hate to say it,{\i0}
+Dialogue: 0,0:18:54.90,0:18:56.78,Default,NTP,0000,0000,0000,,{\i1}but those eyeballs\Non his hands are creepy!{\i0}
+Dialogue: 0,0:18:57.40,0:18:58.65,Default,NTP,0000,0000,0000,,{\i1}Though I hate to say it!{\i0}
+Dialogue: 0,0:19:06.45,0:19:08.16,Default,NTP,0000,0000,0000,,{\i1}The speed of this arrow!{\i0}
+Dialogue: 0,0:19:09.08,0:19:12.04,Default,NTP,0000,0000,0000,,{\i1}It's not going to disappear until it hits me!{\i0}
+Dialogue: 0,0:19:12.50,0:19:14.17,Default,NTP,0000,0000,0000,,{\i1}And I can't slash it with my sword!{\i0}
+Dialogue: 0,0:19:15.38,0:19:16.92,Default,NTP,0000,0000,0000,,{\i1}The instant the blade touches it,{\i0}
+Dialogue: 0,0:19:17.17,0:19:19.51,Default,NTP,0000,0000,0000,,{\i1}I'll get blasted away\Nin the arrow's direction!{\i0}
+Dialogue: 0,0:19:25.56,0:19:26.85,Default,NTP,0000,0000,0000,,{\i1}What should I do?{\i0}
+Dialogue: 0,0:19:35.65,0:19:38.03,Default,NTP,0000,0000,0000,,It's all going the way I want it to!
+Dialogue: 0,0:19:38.40,0:19:40.24,Default,NTP,0000,0000,0000,,Your arm's going to get twisted right off!
+Dialogue: 0,0:19:51.58,0:19:55.63,Default,NTP,0000,0000,0000,,So, you eluded it by spinning in the same\Ndirection as the Kouketsu Arrow?
+Dialogue: 0,0:19:56.38,0:19:57.63,Default,NTP,0000,0000,0000,,Damn monkey!
+Dialogue: 0,0:19:58.55,0:20:01.09,Default,NTP,0000,0000,0000,,{\an8}{\i1}I can't take much more of his attacks!{\i0}
+Dialogue: 0,0:20:01.59,0:20:02.80,Default,NTP,0000,0000,0000,,{\an8}{\i1}I gotta strike back!{\i0}
+Dialogue: 0,0:20:03.34,0:20:07.18,Default,NTP,0000,0000,0000,,{\an8}{\i1}I gotta change the arrow's direction\Nwithout touching it directly!{\i0}
+Dialogue: 0,0:20:08.52,0:20:10.43,Default,NTP,0000,0000,0000,,It's about time for you to die!
+Dialogue: 0,0:20:12.81,0:20:14.40,Default,NTP,0000,0000,0000,,{\i1}Adapt your moves!{\i0}
+Dialogue: 0,0:20:15.65,0:20:18.53,Default,NTP,0000,0000,0000,,{\i1}First, use the Sixth Form\Nto envelope the arrow!{\i0}
+Dialogue: 0,0:20:21.61,0:20:24.11,Default,NTP,0000,0000,0000,,{\i1}Then use the footwork of the Third Form...{\i0}
+Dialogue: 0,0:20:25.28,0:20:26.83,Default,NTP,0000,0000,0000,,{\i1}to close in on him!{\i0}
+Dialogue: 0,0:20:31.83,0:20:32.58,Default,NTP,0000,0000,0000,,{\i1}Twist!{\i0}
+Dialogue: 0,0:20:33.08,0:20:34.25,Default,NTP,0000,0000,0000,,{\i1}Envelope!{\i0}
+Dialogue: 0,0:20:36.84,0:20:40.26,Default,NTP,0000,0000,0000,,{\i1}Twisting Whirlpool-Flowing Water!{\i0}
+Dialogue: 0,0:20:45.80,0:20:47.51,Default,NTP,0000,0000,0000,,{\i1}My sword's so heavy!{\i0}
+Dialogue: 0,0:20:49.27,0:20:50.18,Default,NTP,0000,0000,0000,,{\i1}But...{\i0}
+Dialogue: 0,0:20:50.85,0:20:51.89,Default,NTP,0000,0000,0000,,{\i1}Second Form...{\i0}
+Dialogue: 0,0:20:52.14,0:20:53.02,Default,NTP,0000,0000,0000,,{\i1}Modified!{\i0}
+Dialogue: 0,0:20:54.19,0:20:56.48,Default,NTP,0000,0000,0000,,{\i1}Horizontal Water Wheel!{\i0}
+Dialogue: 0,0:22:41.09,0:22:53.93,Default,NTP,0000,0000,0000,,{\an9}PREVIEW
+Dialogue: 0,0:22:41.09,0:22:53.93,Default,NTP,0000,0000,0000,,{\an7}RUSTLE RUSTLE
+Dialogue: 0,0:22:44.96,0:22:46.63,Default,NTP,0000,0000,0000,,Those are some powerful demons!
+Dialogue: 0,0:22:46.92,0:22:50.09,Default,NTP,0000,0000,0000,,Those temari-and-arrow combination attacks\Nare giving me so much trouble!
+Dialogue: 0,0:22:50.51,0:22:52.30,Default,NTP,0000,0000,0000,,Are you okay, Nezuko?
+Dialogue: 0,0:22:53.93,0:22:57.69,Default,NTP,0000,0000,0000,,Today, I have a Taisho secret for you\Nabout those demons!
+Dialogue: 0,0:22:57.98,0:23:01.11,Default,NTP,0000,0000,0000,,Those two, Yahaba and Susamaru,\Nmet for the first time today.
+Dialogue: 0,0:23:01.11,0:23:05.23,Default,NTP,0000,0000,0000,,I hear that they became friends\Nchatting with each other on their way here.
+Dialogue: 0,0:23:05.78,0:23:08.99,Default,NTP,0000,0000,0000,,I can't believe how much in sync\Nthey are when they only just met!
+Dialogue: 0,0:23:09.41,0:23:11.12,Default,NTP,0000,0000,0000,,Well, we can't let them beat us!
+Dialogue: 0,0:23:11.45,0:23:13.74,Default,NTP,0000,0000,0000,,Nezuko, let's practice our teamwork!
+Dialogue: 0,0:23:15.74,0:23:16.50,Default,NTP,0000,0000,0000,,First Form!
+Dialogue: 0,0:23:18.00,0:23:18.75,Default,NTP,0000,0000,0000,,Second Form!
+Dialogue: 0,0:23:20.75,0:23:21.50,Default,NTP,0000,0000,0000,,Third Form!
+Dialogue: 0,0:23:25.09,0:23:26.96,Default,NTP,0000,0000,0000,,Looking good, Nezuko!
+Dialogue: 0,0:23:28.88,0:23:31.72,Default,NTP,0000,0000,0000,,Next, Episode 10, "Together Forever."
+Dialogue: 0,0:23:31.97,0:23:33.60,Default,NTP,0000,0000,0000,,I'm leaving the temari woman to you!
+Dialogue: 0,0:23:33.89,0:23:35.14,Default,NTP,0000,0000,0000,,Let's fight together!
+Dialogue: 0,0:23:36.77,0:23:40.06,Default,NTP,0000,0000,0000,,TO BE CONTINUED

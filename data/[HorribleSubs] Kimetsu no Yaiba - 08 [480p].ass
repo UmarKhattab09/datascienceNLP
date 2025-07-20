@@ -1,0 +1,346 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: OS,Open Sans Semibold,33,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,1,0,0,0,100,100,0,0,1,2,1,8,1,1,20,0
+Style: Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: On Top,Open Sans Semibold,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,1,0,0,0,100,100,0,0,1,2,1,8,27,27,29,0
+Style: DefaultLow,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultMed,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultHigh,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultLTop,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,7,0,0,28,0
+Style: DefaultRHigh,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,1,0,0,28,0
+Style: DefaultRaisedL,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultRaisedR,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultTopR,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,9,0,0,28,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:06.86,0:00:09.19,Default,NTP,0000,0000,0000,,{\an8}Dear, what's the matter?
+Dialogue: 0,0:00:11.11,0:00:12.36,Default,NTP,0000,0000,0000,,Dear?
+Dialogue: 0,0:00:16.03,0:00:16.87,Default,NTP,0000,0000,0000,,Stop!
+Dialogue: 0,0:01:52.96,0:01:58.01,Default,NTP,0000,0000,0000,,EPISODE 8:\NTHE SMELL OF ENCHANTING BLOOD
+Dialogue: 0,0:02:00.59,0:02:01.55,Default,NTP,0000,0000,0000,,What's this?
+Dialogue: 0,0:02:01.55,0:02:02.47,Default,NTP,0000,0000,0000,,What's going on?
+Dialogue: 0,0:02:02.72,0:02:03.85,Default,NTP,0000,0000,0000,,I-Is that blood?
+Dialogue: 0,0:02:06.14,0:02:07.81,Default,NTP,0000,0000,0000,,Stop it!
+Dialogue: 0,0:02:15.90,0:02:16.82,Default,NTP,0000,0000,0000,,Dear!
+Dialogue: 0,0:02:17.70,0:02:18.45,Default,NTP,0000,0000,0000,,Ma'am!
+Dialogue: 0,0:02:18.70,0:02:20.41,Default,NTP,0000,0000,0000,,You need to worry about yourself!
+Dialogue: 0,0:02:20.66,0:02:24.16,Default,NTP,0000,0000,0000,,Please take a cloth\Nand press down hard on the wound!
+Dialogue: 0,0:02:28.08,0:02:30.67,Default,NTP,0000,0000,0000,,{\i1}It's all right.\NSomehow, it's going to turn out fine.{\i0}
+Dialogue: 0,0:02:31.04,0:02:33.04,Default,NTP,0000,0000,0000,,{\an8}{\i1}The wife's wound isn't fatal!{\i0}
+Dialogue: 0,0:02:33.38,0:02:34.67,Default,NTP,0000,0000,0000,,{\an8}Do it harder!
+Dialogue: 0,0:02:34.88,0:02:37.42,Default,NTP,0000,0000,0000,,Do it harder! Tie it up with a rope!
+Dialogue: 0,0:02:38.01,0:02:39.22,Default,NTP,0000,0000,0000,,{\i1}It's going to be all right.{\i0}
+Dialogue: 0,0:02:39.76,0:02:41.43,Default,NTP,0000,0000,0000,,{\i1}This man hasn't killed anyone!{\i0}
+Dialogue: 0,0:02:43.76,0:02:47.68,Default,NTP,0000,0000,0000,,{\i1}Just a second ago, this man\Nwas just walking down this street!{\i0}
+Dialogue: 0,0:02:49.48,0:02:50.56,Default,NTP,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:02:50.94,0:02:52.69,Default,NTP,0000,0000,0000,,You mustn't look.
+Dialogue: 0,0:02:52.98,0:02:55.65,Default,NTP,0000,0000,0000,,It's dangerous here, Rei.\NLet's move over there.
+Dialogue: 0,0:02:55.90,0:02:56.94,Default,NTP,0000,0000,0000,,{\i1}Where'd he go?{\i0}
+Dialogue: 0,0:03:10.16,0:03:10.96,Default,NTP,0000,0000,0000,,{\an8}{\i1}Dammit!{\i0}
+Dialogue: 0,0:03:11.62,0:03:13.21,Default,NTP,0000,0000,0000,,{\i1}Dammit!{\i0}
+Dialogue: 0,0:03:16.59,0:03:18.92,Default,NTP,0000,0000,0000,,{\i1}I can't leave this man here!{\i0}
+Dialogue: 0,0:03:19.92,0:03:21.51,Default,NTP,0000,0000,0000,,Muzan Kibutsuji!
+Dialogue: 0,0:03:22.01,0:03:23.84,Default,NTP,0000,0000,0000,,I'm not letting you get away!
+Dialogue: 0,0:03:24.18,0:03:26.43,Default,NTP,0000,0000,0000,,{\an8}No matter where you go!
+Dialogue: 0,0:03:27.39,0:03:29.52,Default,NTP,0000,0000,0000,,What's the matter with that child?
+Dialogue: 0,0:03:29.85,0:03:31.44,Default,NTP,0000,0000,0000,,What do you think, Tsukihiko?
+Dialogue: 0,0:03:35.48,0:03:37.40,Default,NTP,0000,0000,0000,,{\an8}No matter where you go,\Nyou're not getting away!
+Dialogue: 0,0:03:37.65,0:03:39.40,Default,NTP,0000,0000,0000,,I'll follow you to the ends of Hell,
+Dialogue: 0,0:03:39.65,0:03:42.11,Default,NTP,0000,0000,0000,,and I swear I'll slice off\Nyour head with my blade!
+Dialogue: 0,0:03:42.36,0:03:44.62,Default,NTP,0000,0000,0000,,I'll never forgive you no matter what!
+Dialogue: 0,0:03:45.41,0:03:47.37,Default,NTP,0000,0000,0000,,What the hell are you doing?
+Dialogue: 0,0:03:47.66,0:03:48.79,Default,NTP,0000,0000,0000,,Is it a drunk?
+Dialogue: 0,0:03:49.12,0:03:51.21,Default,NTP,0000,0000,0000,,Kid, step away from that man!
+Dialogue: 0,0:03:51.54,0:03:52.25,Default,NTP,0000,0000,0000,,I can't!
+Dialogue: 0,0:03:52.50,0:03:54.04,Default,NTP,0000,0000,0000,,Bring some restraints please!
+Dialogue: 0,0:03:54.29,0:03:55.04,Default,NTP,0000,0000,0000,,Please!
+Dialogue: 0,0:03:55.21,0:03:56.71,Default,NTP,0000,0000,0000,,Shut up and step away!
+Dialogue: 0,0:03:56.71,0:03:58.13,Default,NTP,0000,0000,0000,,{\an8}Please don't do that!
+Dialogue: 0,0:03:58.38,0:04:00.46,Default,NTP,0000,0000,0000,,{\an8}No one can hold\Nthis person down but me!
+Dialogue: 0,0:04:00.46,0:04:01.26,Default,NTP,0000,0000,0000,,{\an8}Move!
+Dialogue: 0,0:04:01.26,0:04:02.72,Default,NTP,0000,0000,0000,,{\an8}Please don't do that!
+Dialogue: 0,0:04:03.59,0:04:06.80,Default,NTP,0000,0000,0000,,Just look at this guy's face!\NHas he lost his mind?
+Dialogue: 0,0:04:07.05,0:04:08.56,Default,NTP,0000,0000,0000,,Pull the kid off him!
+Dialogue: 0,0:04:08.56,0:04:10.02,Default,NTP,0000,0000,0000,,Please stop!
+Dialogue: 0,0:04:10.27,0:04:13.06,Default,NTP,0000,0000,0000,,I don't want this person to kill anyone!
+Dialogue: 0,0:04:13.06,0:04:16.56,Default,NTP,0000,0000,0000,,Just stay out of my way, will you?\NI'm begging you!
+Dialogue: 0,0:04:16.56,0:04:18.52,Default,NTP,0000,0000,0000,,{\an8}Dammit! Look, you...
+Dialogue: 0,0:04:18.77,0:04:21.07,Default,NTP,0000,0000,0000,,{\an8}If you're going to keep resisting...
+Dialogue: 0,0:04:28.03,0:04:29.33,Default,NTP,0000,0000,0000,,Enchanting Blood.
+Dialogue: 0,0:04:29.33,0:04:31.41,Default,NTP,0000,0000,0000,,Aroma of Visual Fantasy.
+Dialogue: 0,0:04:32.96,0:04:35.08,Default,NTP,0000,0000,0000,,{\an8}{\i1}What's this scent?{\i0}
+Dialogue: 0,0:04:36.33,0:04:37.96,Default,NTP,0000,0000,0000,,{\an8}What are all these patterns?
+Dialogue: 0,0:04:40.88,0:04:43.84,Default,NTP,0000,0000,0000,,What's going on? I can't see anything!
+Dialogue: 0,0:04:44.63,0:04:46.14,Default,NTP,0000,0000,0000,,{\i1}Is this some kind of attack?{\i0}
+Dialogue: 0,0:04:46.39,0:04:47.80,Default,NTP,0000,0000,0000,,{\i1}If it is, that means trouble!{\i0}
+Dialogue: 0,0:04:49.56,0:04:51.22,Default,NTP,0000,0000,0000,,{\i1}Is the scent growing stronger?{\i0}
+Dialogue: 0,0:05:00.02,0:05:01.23,Default,NTP,0000,0000,0000,,You still use...
+Dialogue: 0,0:05:01.90,0:05:03.74,Default,NTP,0000,0000,0000,,{\an8}the term "person"...
+Dialogue: 0,0:05:04.53,0:05:07.70,Default,NTP,0000,0000,0000,,to refer to even a transformed demon.
+Dialogue: 0,0:05:08.41,0:05:10.49,Default,NTP,0000,0000,0000,,And you're trying to save him.
+Dialogue: 0,0:05:12.16,0:05:15.75,Default,NTP,0000,0000,0000,,{\an8}Allow me, then, to lend you a hand.
+Dialogue: 0,0:05:16.37,0:05:17.75,Default,NTP,0000,0000,0000,,But why?
+Dialogue: 0,0:05:18.00,0:05:18.83,Default,NTP,0000,0000,0000,,You...
+Dialogue: 0,0:05:19.21,0:05:20.46,Default,NTP,0000,0000,0000,,Your scent tells me...
+Dialogue: 0,0:05:21.55,0:05:22.46,Default,NTP,0000,0000,0000,,That's right.
+Dialogue: 0,0:05:22.80,0:05:23.96,Default,NTP,0000,0000,0000,,I am...
+Dialogue: 0,0:05:26.80,0:05:28.80,Default,NTP,0000,0000,0000,,{\an8}...a demon, but I am also a doctor,
+Dialogue: 0,0:05:29.68,0:05:34.52,Default,NTP,0000,0000,0000,,{\an8}and I wish to annihilate\Nthat man, Kibutsuji.
+Dialogue: 0,0:05:38.56,0:05:40.52,Default,NTP,0000,0000,0000,,Aren't you coming, Daddy?
+Dialogue: 0,0:05:40.90,0:05:42.61,Default,NTP,0000,0000,0000,,Daddy has work.
+Dialogue: 0,0:05:42.86,0:05:45.07,Default,NTP,0000,0000,0000,,I have a business meeting to attend.
+Dialogue: 0,0:05:45.32,0:05:48.03,Default,NTP,0000,0000,0000,,I'm also concerned\Nabout that disturbance just now.
+Dialogue: 0,0:05:48.41,0:05:49.57,Default,NTP,0000,0000,0000,,{\an8}Dear...
+Dialogue: 0,0:05:49.82,0:05:50.87,Default,NTP,0000,0000,0000,,{\an8}Don't worry.
+Dialogue: 0,0:05:51.12,0:05:53.66,Default,NTP,0000,0000,0000,,{\an8}I'm only going to speak with the police.
+Dialogue: 0,0:05:53.95,0:05:55.54,Default,NTP,0000,0000,0000,,Now, get in.
+Dialogue: 0,0:05:59.08,0:06:01.63,Default,NTP,0000,0000,0000,,Daddy, come home soon, okay?
+Dialogue: 0,0:06:01.88,0:06:04.38,Default,NTP,0000,0000,0000,,All right. You be a good girl now.
+Dialogue: 0,0:06:04.63,0:06:06.26,Default,NTP,0000,0000,0000,,Take them back to the house.
+Dialogue: 0,0:06:06.72,0:06:07.68,Default,NTP,0000,0000,0000,,Go on.
+Dialogue: 0,0:06:21.02,0:06:23.48,Default,NTP,0000,0000,0000,,Big Bro, let's hit one more bar!
+Dialogue: 0,0:06:23.73,0:06:25.99,Default,NTP,0000,0000,0000,,Yacchan, are you okay?
+Dialogue: 0,0:06:25.99,0:06:27.74,Default,NTP,0000,0000,0000,,I'm fine! I'm fine!
+Dialogue: 0,0:06:27.99,0:06:30.49,Default,NTP,0000,0000,0000,,I'm not even drunk yet—
+Dialogue: 0,0:06:30.74,0:06:32.41,Default,NTP,0000,0000,0000,,What the hell, you bastard?
+Dialogue: 0,0:06:35.91,0:06:37.33,Default,NTP,0000,0000,0000,,Forgive me.
+Dialogue: 0,0:06:41.92,0:06:42.92,Default,NTP,0000,0000,0000,,Hey, come back here!
+Dialogue: 0,0:06:43.96,0:06:46.76,Default,NTP,0000,0000,0000,,I'm very sorry,\Nbut I happen to be in a hurry, so...
+Dialogue: 0,0:06:47.55,0:06:49.13,Default,NTP,0000,0000,0000,,What did you say?
+Dialogue: 0,0:06:49.43,0:06:53.30,Default,NTP,0000,0000,0000,,Hey, look at you, decked out\Nin those posh-looking threads!
+Dialogue: 0,0:06:53.55,0:06:55.01,Default,NTP,0000,0000,0000,,You piss me off!
+Dialogue: 0,0:06:55.51,0:06:57.98,Default,NTP,0000,0000,0000,,You and your pale face...
+Dialogue: 0,0:06:58.31,0:07:00.52,Default,NTP,0000,0000,0000,,You look like you're about to fall over dead!
+Dialogue: 0,0:07:04.44,0:07:07.61,Default,NTP,0000,0000,0000,,Hey, say something, will you?\NOr did you just croak?
+Dialogue: 0,0:07:13.32,0:07:14.53,Default,NTP,0000,0000,0000,,Yacchan!
+Dialogue: 0,0:07:14.53,0:07:16.37,Default,NTP,0000,0000,0000,,What did you do to my kid brother?
+Dialogue: 0,0:07:16.87,0:07:17.91,Default,NTP,0000,0000,0000,,Yacchan!
+Dialogue: 0,0:07:18.16,0:07:19.12,Default,NTP,0000,0000,0000,,He's dead!
+Dialogue: 0,0:07:19.46,0:07:21.50,Default,NTP,0000,0000,0000,,Yacchan's not breathing!
+Dialogue: 0,0:07:23.38,0:07:24.29,Default,NTP,0000,0000,0000,,You bastard!
+Dialogue: 0,0:07:43.90,0:07:47.69,Default,NTP,0000,0000,0000,,Does my complexion\Nlook unhealthy to you?
+Dialogue: 0,0:07:49.28,0:07:52.07,Default,NTP,0000,0000,0000,,Is my face pale?
+Dialogue: 0,0:07:53.99,0:07:55.83,Default,NTP,0000,0000,0000,,{\an8}Do I look sickly to you?
+Dialogue: 0,0:07:57.12,0:08:00.00,Default,NTP,0000,0000,0000,,Do I look like I'm not long\Nfor this world?
+Dialogue: 0,0:08:00.58,0:08:02.79,Default,NTP,0000,0000,0000,,Do I look like I'm about to die?
+Dialogue: 0,0:08:05.33,0:08:08.00,Default,NTP,0000,0000,0000,,Wrong, wrong, wrong, wrong.
+Dialogue: 0,0:08:08.92,0:08:13.38,Default,NTP,0000,0000,0000,,I'm a living being\Nwho's infinitely close to perfection.
+Dialogue: 0,0:08:24.69,0:08:29.23,Default,NTP,0000,0000,0000,,What do you think will happen\Nif I keep flooding you with my blood?
+Dialogue: 0,0:08:37.28,0:08:41.41,Default,NTP,0000,0000,0000,,{\an8}The human body is unable to withstand\Nthe speed of transformation.
+Dialogue: 0,0:08:46.00,0:08:48.50,Default,NTP,0000,0000,0000,,And its cells are destroyed.
+Dialogue: 0,0:09:08.23,0:09:14.15,Default,NTP,0000,0000,0000,,Bring me the head of the Demon Slayer\Nwho wears hanafuda-like earrings.
+Dialogue: 0,0:09:15.45,0:09:16.91,Default,NTP,0000,0000,0000,,Understood?
+Dialogue: 0,0:09:17.28,0:09:18.03,Default,NTP,0000,0000,0000,,As you wish.
+Dialogue: 0,0:09:18.28,0:09:19.99,Default,NTP,0000,0000,0000,,Your wish is our command.
+Dialogue: 0,0:09:30.63,0:09:33.09,Default,NTP,0000,0000,0000,,Those earrings...
+Dialogue: 0,0:09:38.09,0:09:42.10,Default,NTP,0000,0000,0000,,DEMON SLAYER:\NKIMETSU NO YAIBA
+Dialogue: 0,0:09:42.10,0:09:46.10,Default,NTP,0000,0000,0000,,DEMON SLAYER:\NKIMETSU NO YAIBA
+Dialogue: 0,0:09:46.44,0:09:49.02,Default,NTP,0000,0000,0000,,{\an8}Now, listen to me! Here's the deal...
+Dialogue: 0,0:09:49.52,0:09:51.27,Default,NTP,0000,0000,0000,,My point is this, okay?
+Dialogue: 0,0:09:51.52,0:09:53.32,Default,NTP,0000,0000,0000,,It's not about the money!
+Dialogue: 0,0:09:53.57,0:09:58.53,Default,NTP,0000,0000,0000,,What I can't forgive is your lack of intent\Nto eat my udon, all right?
+Dialogue: 0,0:09:58.82,0:10:01.41,Default,NTP,0000,0000,0000,,I'm so sorry!\NPlease serve me another bowl!
+Dialogue: 0,0:10:01.66,0:10:02.62,Default,NTP,0000,0000,0000,,So, you're gonna eat it?
+Dialogue: 0,0:10:02.62,0:10:03.41,Default,NTP,0000,0000,0000,,Yes!
+Dialogue: 0,0:10:03.79,0:10:05.04,Default,NTP,0000,0000,0000,,You're definitely gonna eat it?
+Dialogue: 0,0:10:05.04,0:10:06.12,Default,NTP,0000,0000,0000,,Yes, I shall!
+Dialogue: 0,0:10:06.37,0:10:07.41,Default,NTP,0000,0000,0000,,Okay!
+Dialogue: 0,0:10:07.67,0:10:08.71,Default,NTP,0000,0000,0000,,You, too!
+Dialogue: 0,0:10:08.96,0:10:11.71,Default,NTP,0000,0000,0000,,If you're gonna have udon,\Ntake off that bamboo thingie first!
+Dialogue: 0,0:10:11.71,0:10:13.17,Default,NTP,0000,0000,0000,,What is that thing anyway?
+Dialogue: 0,0:10:13.55,0:10:15.30,Default,NTP,0000,0000,0000,,Take these chopsticks! Chopsticks!
+Dialogue: 0,0:10:17.55,0:10:18.93,Default,NTP,0000,0000,0000,,{\an8}I'd like a bowl of udon!
+Dialogue: 0,0:10:19.18,0:10:20.85,Default,NTP,0000,0000,0000,,{\an8}I'd like two bowls of udon!
+Dialogue: 0,0:10:20.85,0:10:22.47,Default,NTP,0000,0000,0000,,{\an8}R-Right.
+Dialogue: 0,0:10:37.07,0:10:38.49,Default,NTP,0000,0000,0000,,Thank you very much for the meal!
+Dialogue: 0,0:10:39.03,0:10:40.36,Default,NTP,0000,0000,0000,,That was delicious!
+Dialogue: 0,0:10:40.87,0:10:43.58,Default,NTP,0000,0000,0000,,As long as you get it! It's all good!
+Dialogue: 0,0:10:43.58,0:10:44.87,Default,NTP,0000,0000,0000,,Thanks for your business!
+Dialogue: 0,0:10:43.58,0:10:46.58,Default,NTP,0000,0000,0000,,{\an6}UDON
+Dialogue: 0,0:10:46.91,0:10:48.16,Default,NTP,0000,0000,0000,,Sorry about that, Nezuko.
+Dialogue: 0,0:10:48.58,0:10:50.21,Default,NTP,0000,0000,0000,,Leaving you behind like that...
+Dialogue: 0,0:10:51.67,0:10:54.04,Default,NTP,0000,0000,0000,,What's wrong, Nezuko?
+Dialogue: 0,0:11:01.76,0:11:03.68,Default,NTP,0000,0000,0000,,So, you've been waiting for us?
+Dialogue: 0,0:11:04.05,0:11:08.18,Default,NTP,0000,0000,0000,,Because I was told\Nto bring you to see her.
+Dialogue: 0,0:11:08.56,0:11:10.52,Default,NTP,0000,0000,0000,,I could've tracked you by scent.
+Dialogue: 0,0:11:10.77,0:11:13.81,Default,NTP,0000,0000,0000,,She's in a place\Nthat's under a cloaking spell.
+Dialogue: 0,0:11:14.19,0:11:15.61,Default,NTP,0000,0000,0000,,No way could you find it.
+Dialogue: 0,0:11:15.94,0:11:17.57,Default,NTP,0000,0000,0000,,Cloaking?
+Dialogue: 0,0:11:18.11,0:11:19.61,Default,NTP,0000,0000,0000,,Anyway...
+Dialogue: 0,0:11:21.16,0:11:23.49,Default,NTP,0000,0000,0000,,Isn't that woman a demon?
+Dialogue: 0,0:11:23.74,0:11:25.49,Default,NTP,0000,0000,0000,,And an eyesore to boot.
+Dialogue: 0,0:11:27.91,0:11:28.91,Default,NTP,0000,0000,0000,,{\i1}Eyesore?{\i0}
+Dialogue: 0,0:11:29.54,0:11:30.46,Default,NTP,0000,0000,0000,,{\i1}Eyesore?{\i0}
+Dialogue: 0,0:11:31.21,0:11:32.88,Default,NTP,0000,0000,0000,,{\i1}Does he mean "ugly"?{\i0}
+Dialogue: 0,0:11:33.33,0:11:34.50,Default,NTP,0000,0000,0000,,{\i1}Who?{\i0}
+Dialogue: 0,0:11:37.88,0:11:39.09,Default,NTP,0000,0000,0000,,{\i1}Nezuko?{\i0}
+Dialogue: 0,0:11:39.72,0:11:41.51,Default,NTP,0000,0000,0000,,{\an8}Who in their right mind\Nwould call her an eyesore?
+Dialogue: 0,0:11:41.72,0:11:43.89,Default,NTP,0000,0000,0000,,{\an8}Just take a good look at her features!
+Dialogue: 0,0:11:44.09,0:11:47.72,Default,NTP,0000,0000,0000,,She was the beauty\Nof our hometown! Our Nezuko!
+Dialogue: 0,0:11:50.52,0:11:51.44,Default,NTP,0000,0000,0000,,Let's go.
+Dialogue: 0,0:11:51.44,0:11:53.06,Default,NTP,0000,0000,0000,,Sure, we'll go, but still...
+Dialogue: 0,0:11:53.06,0:11:55.06,Default,NTP,0000,0000,0000,,No way is she an eyesore!\NNot on your life!
+Dialogue: 0,0:11:55.86,0:11:58.48,Default,NTP,0000,0000,0000,,{\an8}Take a look at her\Nwhere there's a bit more light!
+Dialogue: 0,0:11:58.73,0:12:01.49,Default,NTP,0000,0000,0000,,{\an8}Come on, let's go over there!
+Dialogue: 0,0:12:07.03,0:12:10.08,Default,NTP,0000,0000,0000,,Oh, I know what it is!\NIt's this muzzle, right?
+Dialogue: 0,0:12:10.08,0:12:12.16,Default,NTP,0000,0000,0000,,It might be because of this muzzle!
+Dialogue: 0,0:12:12.41,0:12:16.38,Default,NTP,0000,0000,0000,,I'd like you to behold Nezuko\Nwithout the muzzle!
+Dialogue: 0,0:12:19.17,0:12:20.17,Default,NTP,0000,0000,0000,,Hurry it up.
+Dialogue: 0,0:12:20.42,0:12:21.88,Default,NTP,0000,0000,0000,,While no one's around.
+Dialogue: 0,0:12:33.14,0:12:35.56,Default,NTP,0000,0000,0000,,There's a house\Nbehind the dead end!
+Dialogue: 0,0:12:35.81,0:12:37.19,Default,NTP,0000,0000,0000,,Get over here!
+Dialogue: 0,0:12:37.44,0:12:41.07,Default,NTP,0000,0000,0000,,Listen. Make sure you don't offend\Nthat person in any way.
+Dialogue: 0,0:12:41.40,0:12:43.99,Default,NTP,0000,0000,0000,,Personally, I couldn't care less\Nwhat happens to you.
+Dialogue: 0,0:12:43.99,0:12:47.07,Default,NTP,0000,0000,0000,,But I brought you here\Nbecause she insisted!
+Dialogue: 0,0:12:47.07,0:12:48.70,Default,NTP,0000,0000,0000,,R-Right.
+Dialogue: 0,0:12:51.25,0:12:52.20,Default,NTP,0000,0000,0000,,Come in.
+Dialogue: 0,0:12:53.33,0:12:54.83,Default,NTP,0000,0000,0000,,I have returned.
+Dialogue: 0,0:12:55.62,0:12:56.92,Default,NTP,0000,0000,0000,,Welcome back.
+Dialogue: 0,0:12:58.71,0:13:01.55,Default,NTP,0000,0000,0000,,I'm sorry that I left you\Nto take care of things just now.
+Dialogue: 0,0:13:01.80,0:13:02.97,Default,NTP,0000,0000,0000,,How is the lady?
+Dialogue: 0,0:13:03.59,0:13:05.59,Default,NTP,0000,0000,0000,,She'll be just fine.
+Dialogue: 0,0:13:06.68,0:13:10.85,Default,NTP,0000,0000,0000,,Unfortunately, I have to keep\Nher husband restrained in the basement.
+Dialogue: 0,0:13:15.10,0:13:19.11,Default,NTP,0000,0000,0000,,Isn't treating human wounds\Nunbearable for you?
+Dialogue: 0,0:13:21.53,0:13:28.57,Default,NTP,0000,0000,0000,,You think demons treat humans while choking\Nback their own drool at the smell of blood?
+Dialogue: 0,0:13:30.16,0:13:31.04,Default,NTP,0000,0000,0000,,Sorry.
+Dialogue: 0,0:13:32.33,0:13:35.62,Default,NTP,0000,0000,0000,,Stop it. Why would you\Nresort to violence?
+Dialogue: 0,0:13:38.33,0:13:40.34,Default,NTP,0000,0000,0000,,I never introduced myself, did I?
+Dialogue: 0,0:13:40.59,0:13:42.84,Default,NTP,0000,0000,0000,,My name is Tamayo.
+Dialogue: 0,0:13:43.09,0:13:44.72,Default,NTP,0000,0000,0000,,That boy is Yushiro.
+Dialogue: 0,0:13:44.97,0:13:46.97,Default,NTP,0000,0000,0000,,I hope that you'll be his friend.
+Dialogue: 0,0:13:52.39,0:13:54.02,Default,NTP,0000,0000,0000,,{\i1}I don't think that's gonna happen.{\i0}
+Dialogue: 0,0:13:54.43,0:13:56.06,Default,NTP,0000,0000,0000,,It's not unbearable, you know.
+Dialogue: 0,0:13:57.44,0:14:00.81,Default,NTP,0000,0000,0000,,I believe it's much easier for me\Nthan for normal demons.
+Dialogue: 0,0:14:01.61,0:14:05.82,Default,NTP,0000,0000,0000,,Because I've tweaked\Nmy body considerably.
+Dialogue: 0,0:14:06.32,0:14:09.03,Default,NTP,0000,0000,0000,,I've also removed Kibutsuji's curse.
+Dialogue: 0,0:14:10.41,0:14:13.95,Default,NTP,0000,0000,0000,,Curse? T-Tweaked your body?
+Dialogue: 0,0:14:22.04,0:14:23.00,Default,NTP,0000,0000,0000,,Come this way.
+Dialogue: 0,0:14:27.05,0:14:29.51,Default,NTP,0000,0000,0000,,Hey, Nezuko, that's bad manners!
+Dialogue: 0,0:14:31.14,0:14:32.43,Default,NTP,0000,0000,0000,,That's quite all right.
+Dialogue: 0,0:14:32.68,0:14:34.39,Default,NTP,0000,0000,0000,,Please make yourselves at home.
+Dialogue: 0,0:14:35.06,0:14:36.48,Default,NTP,0000,0000,0000,,{\an8}Sorry.
+Dialogue: 0,0:14:37.06,0:14:39.90,Default,NTP,0000,0000,0000,,{\an8}Now then, allow me to continue.
+Dialogue: 0,0:14:40.31,0:14:44.32,Default,NTP,0000,0000,0000,,{\an8}I adjusted our bodies so that we can live\Nwithout devouring humans.
+Dialogue: 0,0:14:44.94,0:14:48.07,Default,NTP,0000,0000,0000,,{\an8}A small amount of human blood\Nis all we need.
+Dialogue: 0,0:14:48.45,0:14:49.61,Default,NTP,0000,0000,0000,,Blood?
+Dialogue: 0,0:14:50.20,0:14:51.32,Default,NTP,0000,0000,0000,,You mean...
+Dialogue: 0,0:14:51.70,0:14:54.41,Default,NTP,0000,0000,0000,,You may find it distasteful,
+Dialogue: 0,0:14:54.74,0:14:56.83,Default,NTP,0000,0000,0000,,but what I do is buy blood
+Dialogue: 0,0:14:57.08,0:14:59.87,Default,NTP,0000,0000,0000,,under the guise of transfusions\Nfrom those unable to make ends meet.
+Dialogue: 0,0:14:59.87,0:15:03.88,Default,NTP,0000,0000,0000,,Of course, no more\Nthan would impair them.
+Dialogue: 0,0:15:04.63,0:15:05.88,Default,NTP,0000,0000,0000,,{\i1}I see.{\i0}
+Dialogue: 0,0:15:06.30,0:15:10.72,Default,NTP,0000,0000,0000,,{\i1}So, that's why I'm not picking up that strange\Nscent unique to demons from these two.{\i0}
+Dialogue: 0,0:15:11.09,0:15:13.89,Default,NTP,0000,0000,0000,,{\i1}But they do need human blood after all.{\i0}
+Dialogue: 0,0:15:14.72,0:15:17.31,Default,NTP,0000,0000,0000,,{\i1}If blood is all they need, then Nezuko...{\i0}
+Dialogue: 0,0:15:17.98,0:15:21.31,Default,NTP,0000,0000,0000,,Yushiro can get by with even less blood.
+Dialogue: 0,0:15:21.56,0:15:24.06,Default,NTP,0000,0000,0000,,I'm the one who turned him\Ninto a demon.
+Dialogue: 0,0:15:25.19,0:15:26.44,Default,NTP,0000,0000,0000,,You did that?
+Dialogue: 0,0:15:26.82,0:15:27.78,Default,NTP,0000,0000,0000,,But...
+Dialogue: 0,0:15:29.49,0:15:30.86,Default,NTP,0000,0000,0000,,You're right.
+Dialogue: 0,0:15:31.41,0:15:35.70,Default,NTP,0000,0000,0000,,It's generally held that no one\Nbut Kibutsuji can reproduce demons.
+Dialogue: 0,0:15:36.16,0:15:38.12,Default,NTP,0000,0000,0000,,That's more or less accurate.
+Dialogue: 0,0:15:39.25,0:15:41.12,Default,NTP,0000,0000,0000,,{\an8}After more than 200 years,
+Dialogue: 0,0:15:41.37,0:15:45.04,Default,NTP,0000,0000,0000,,{\an8}I was only able to transform Yushiro\Ninto a demon after all.
+Dialogue: 0,0:15:47.59,0:15:48.34,Default,NTP,0000,0000,0000,,Two...
+Dialogue: 0,0:15:50.30,0:15:52.09,Default,NTP,0000,0000,0000,,Two hundred years...
+Dialogue: 0,0:15:52.34,0:15:57.26,Default,NTP,0000,0000,0000,,You were only able to transform Yushiro\Nafter more than 200 years?
+Dialogue: 0,0:15:57.52,0:15:59.23,Default,NTP,0000,0000,0000,,Exactly how old are you, Miss Tamayo?
+Dialogue: 0,0:16:00.73,0:16:04.36,Default,NTP,0000,0000,0000,,Don't ask a lady her age,\Nyou ill-mannered scoundrel!
+Dialogue: 0,0:16:04.52,0:16:05.48,Default,NTP,0000,0000,0000,,Yushiro!
+Dialogue: 0,0:16:05.73,0:16:08.32,Default,NTP,0000,0000,0000,,The next time you hit that boy,\NI'll make you regret it!
+Dialogue: 0,0:16:09.28,0:16:10.36,Default,NTP,0000,0000,0000,,Yes, ma'am!
+Dialogue: 0,0:16:11.40,0:16:13.86,Default,NTP,0000,0000,0000,,{\i1}She's beautiful even when she's angry!{\i0}
+Dialogue: 0,0:16:15.41,0:16:18.79,Default,NTP,0000,0000,0000,,There's one thing\NI'd like to clear up with you.
+Dialogue: 0,0:16:19.58,0:16:22.54,Default,NTP,0000,0000,0000,,I'm not trying to create more demons.
+Dialogue: 0,0:16:23.04,0:16:25.46,Default,NTP,0000,0000,0000,,I only perform the procedure\Non the terminally ill
+Dialogue: 0,0:16:25.71,0:16:29.71,Default,NTP,0000,0000,0000,,or those so gravely injured\Nthat they don't have long to live.
+Dialogue: 0,0:16:30.51,0:16:32.68,Default,NTP,0000,0000,0000,,{\an8}And in those cases,
+Dialogue: 0,0:16:32.93,0:16:37.22,Default,NTP,0000,0000,0000,,{\an8}I always ask them beforehand\Nif they wish to live on even as demons.
+Dialogue: 0,0:16:42.23,0:16:45.81,Default,NTP,0000,0000,0000,,{\i1}The scent she's giving off is pure\Nand devoid of deception.{\i0}
+Dialogue: 0,0:16:46.36,0:16:48.23,Default,NTP,0000,0000,0000,,{\i1}She's someone I can trust.{\i0}
+Dialogue: 0,0:16:49.61,0:16:50.90,Default,NTP,0000,0000,0000,,Miss Tamayo,
+Dialogue: 0,0:16:52.19,0:16:56.57,Default,NTP,0000,0000,0000,,is there a way to return a transformed\Ndemon back to human form?
+Dialogue: 0,0:17:13.72,0:17:15.13,Default,NTP,0000,0000,0000,,See anything?
+Dialogue: 0,0:17:16.59,0:17:17.64,Default,NTP,0000,0000,0000,,I can see.
+Dialogue: 0,0:17:18.18,0:17:20.64,Default,NTP,0000,0000,0000,,I can see footprints.
+Dialogue: 0,0:17:20.97,0:17:22.98,Default,NTP,0000,0000,0000,,This is it. This is it.
+Dialogue: 0,0:17:26.52,0:17:29.19,Default,NTP,0000,0000,0000,,{\an8}Making a huge turn over there.
+Dialogue: 0,0:17:32.78,0:17:35.03,Default,NTP,0000,0000,0000,,There are three of them.
+Dialogue: 0,0:17:35.28,0:17:38.07,Default,NTP,0000,0000,0000,,And one's carrying some kind of big box.
+Dialogue: 0,0:17:40.91,0:17:43.54,Default,NTP,0000,0000,0000,,How should we kill them, I wonder.
+Dialogue: 0,0:17:45.37,0:17:47.42,Default,NTP,0000,0000,0000,,I can feel the flow of power.
+Dialogue: 0,0:17:47.79,0:17:51.42,Default,NTP,0000,0000,0000,,Because of all the blood\Nhe shared with me.
+Dialogue: 0,0:17:52.63,0:17:56.38,Default,NTP,0000,0000,0000,,Of course we're going to\Nslay them vindictively.
+Dialogue: 0,0:17:57.68,0:18:00.26,Default,NTP,0000,0000,0000,,There is a way to turn a demon...
+Dialogue: 0,0:18:01.18,0:18:02.10,Default,NTP,0000,0000,0000,,back into a human.
+Dialogue: 0,0:18:03.10,0:18:03.89,Default,NTP,0000,0000,0000,,Please tell me how!
+Dialogue: 0,0:18:04.35,0:18:08.27,Default,NTP,0000,0000,0000,,{\an8}Don't you dare get so close to Lady Tamayo!
+Dialogue: 0,0:18:09.48,0:18:10.65,Default,NTP,0000,0000,0000,,Yushiro...
+Dialogue: 0,0:18:11.90,0:18:15.11,Default,NTP,0000,0000,0000,,Yes, ma'am! I only threw him.\NLady Tamayo. I did not hit him.
+Dialogue: 0,0:18:15.36,0:18:16.78,Default,NTP,0000,0000,0000,,You mustn't do either.
+Dialogue: 0,0:18:16.78,0:18:17.53,Default,NTP,0000,0000,0000,,Yes, ma'am!
+Dialogue: 0,0:18:18.11,0:18:20.03,Default,NTP,0000,0000,0000,,Ouch, ouch, ouch.
+Dialogue: 0,0:18:20.70,0:18:22.37,Default,NTP,0000,0000,0000,,Please tell me how.
+Dialogue: 0,0:18:23.45,0:18:28.87,Default,NTP,0000,0000,0000,,For any kind of wound, there's always\Nsome kind of medicine or treatment.
+Dialogue: 0,0:18:29.17,0:18:32.92,Default,NTP,0000,0000,0000,,At this time, I'm unable to turn\Na demon back into a human,
+Dialogue: 0,0:18:34.05,0:18:35.88,Default,NTP,0000,0000,0000,,but surely, that, too...
+Dialogue: 0,0:18:37.93,0:18:38.88,Default,NTP,0000,0000,0000,,However,
+Dialogue: 0,0:18:39.55,0:18:44.47,Default,NTP,0000,0000,0000,,we are dedicated to establishing\Nsuch a method of treatment.
+Dialogue: 0,0:18:45.43,0:18:49.35,Default,NTP,0000,0000,0000,,{\an8}Towards that end, I'd like to ask you\Nto do something for me.
+Dialogue: 0,0:18:50.40,0:18:52.23,Default,NTP,0000,0000,0000,,To produce such an elixir,
+Dialogue: 0,0:18:52.48,0:18:55.57,Default,NTP,0000,0000,0000,,it is necessary to study\Nthe blood of numerous demons.
+Dialogue: 0,0:18:56.44,0:18:59.03,Default,NTP,0000,0000,0000,,I have two favors to ask of you.
+Dialogue: 0,0:18:59.78,0:19:03.99,Default,NTP,0000,0000,0000,,One, permission to study\Nyour sister's blood.
+Dialogue: 0,0:19:04.37,0:19:08.96,Default,NTP,0000,0000,0000,,Two, to retrieve\Nblood samples from demons
+Dialogue: 0,0:19:09.21,0:19:11.79,Default,NTP,0000,0000,0000,,as closely related to Kibutsuji\Nas possible.
+Dialogue: 0,0:19:12.63,0:19:17.17,Default,NTP,0000,0000,0000,,Nezuko's current condition\Nis extremely rare and unique.
+Dialogue: 0,0:19:17.76,0:19:20.43,Default,NTP,0000,0000,0000,,I understand that she was asleep\Nfor two straight years,
+Dialogue: 0,0:19:20.68,0:19:24.05,Default,NTP,0000,0000,0000,,and I believe that her body underwent\Nchanges during that time.
+Dialogue: 0,0:19:24.51,0:19:27.60,Default,NTP,0000,0000,0000,,Normally, any demon who went that long
+Dialogue: 0,0:19:27.60,0:19:31.27,Default,NTP,0000,0000,0000,,without consuming the flesh\Nor blood of a human or beast
+Dialogue: 0,0:19:31.52,0:19:34.40,Default,NTP,0000,0000,0000,,would unquestionably go berserk.
+Dialogue: 0,0:19:34.90,0:19:37.40,Default,NTP,0000,0000,0000,,{\i1}Lady Tamayo is beautiful today, too!{\i0}
+Dialogue: 0,0:19:37.65,0:19:39.82,Default,NTP,0000,0000,0000,,{\i1}I'm sure she'll be\Nbeautiful again tomorrow!{\i0}
+Dialogue: 0,0:19:40.78,0:19:46.12,Default,NTP,0000,0000,0000,,And yet, surprisingly,\NNezuko shows none of those signs.
+Dialogue: 0,0:19:46.66,0:19:50.00,Default,NTP,0000,0000,0000,,This miracle will be the key\Nto finding a solution.
+Dialogue: 0,0:19:50.96,0:19:51.96,Default,NTP,0000,0000,0000,,{\i1}Nezuko...{\i0}
+Dialogue: 0,0:19:58.59,0:20:02.05,Default,NTP,0000,0000,0000,,{\an8}The other request I have for you\Nis a harsh one.
+Dialogue: 0,0:20:03.30,0:20:05.51,Default,NTP,0000,0000,0000,,By "demons closely related to Kibutsuji,"
+Dialogue: 0,0:20:05.76,0:20:11.77,Default,NTP,0000,0000,0000,,I meant demons whose powers are more\Non par with that of Kibutsuji himself.
+Dialogue: 0,0:20:12.35,0:20:15.73,Default,NTP,0000,0000,0000,,It won't be easy to extract blood\Nfrom such demons.
+Dialogue: 0,0:20:16.52,0:20:21.53,Default,NTP,0000,0000,0000,,Are you still willing\Nto go along with my requests?
+Dialogue: 0,0:20:26.87,0:20:30.54,Default,NTP,0000,0000,0000,,{\an8}If there's no other way, then I'll do it.
+Dialogue: 0,0:20:31.29,0:20:33.79,Default,NTP,0000,0000,0000,,{\an8}If it means you're going to research\Nall these demons' blood
+Dialogue: 0,0:20:34.04,0:20:35.96,Default,NTP,0000,0000,0000,,{\an8}and create this medicine...
+Dialogue: 0,0:20:37.17,0:20:39.67,Default,NTP,0000,0000,0000,,{\an8}If that happens, that means\Nit won't just be Nezuko.
+Dialogue: 0,0:20:40.51,0:20:43.38,Default,NTP,0000,0000,0000,,{\an8}Lots of other people\Nwill be saved, too, right?
+Dialogue: 0,0:20:46.89,0:20:48.47,Default,NTP,0000,0000,0000,,That's right.
+Dialogue: 0,0:20:54.73,0:20:55.35,Default,NTP,0000,0000,0000,,Get down!
+Dialogue: 0,0:21:08.66,0:21:10.54,Default,NTP,0000,0000,0000,,Did you decide how to kill them?
+Dialogue: 0,0:21:10.79,0:21:12.91,Default,NTP,0000,0000,0000,,Vindictively, of course!
+Dialogue: 0,0:23:00.94,0:23:03.23,Default,NTP,0000,0000,0000,,{\an9}PREVIEW
+Dialogue: 0,0:23:00.94,0:23:03.23,Default,NTP,0000,0000,0000,,{\an7}RUSTLE RUSTLE
+Dialogue: 0,0:23:03.23,0:23:06.07,Default,NTP,0000,0000,0000,,I'm starting with the Taisho secret today!
+Dialogue: 0,0:23:06.07,0:23:12.32,Default,NTP,0000,0000,0000,,{\an9}LADY TAMAYO
+Dialogue: 0,0:23:06.28,0:23:08.99,Default,NTP,0000,0000,0000,,Yushiro's hobby is to write\Nin his Lady Tamayo journal.
+Dialogue: 0,0:23:08.99,0:23:12.32,Default,NTP,0000,0000,0000,,I hear that he churns out\Nseven to ten pages a day.
+Dialogue: 0,0:23:12.78,0:23:15.91,Default,NTP,0000,0000,0000,,And now, I've found that very journal.\NLet's take a peek, huh?
+Dialogue: 0,0:23:16.70,0:23:17.58,Default,NTP,0000,0000,0000,,Let's see.
+Dialogue: 0,0:23:17.58,0:23:21.04,Default,NTP,0000,0000,0000,,"January 10. Lady Tamayo was ethereal\Nand gorgeous again today.
+Dialogue: 0,0:23:21.04,0:23:24.38,Default,NTP,0000,0000,0000,,At 17:10, she called my name.\NTwice, no less!
+Dialogue: 0,0:23:24.38,0:23:26.13,Default,NTP,0000,0000,0000,,Her voice was beautiful.
+Dialogue: 0,0:23:26.13,0:23:31.09,Default,NTP,0000,0000,0000,,At 17:29, when Lady Tamayo,\Ndeep in thought, slipped on the step..."
+Dialogue: 0,0:23:31.84,0:23:34.51,Default,NTP,0000,0000,0000,,Next, Episode 9,\N"Temari Demon and Arrow Demon"!
+Dialogue: 0,0:23:34.76,0:23:36.64,Default,NTP,0000,0000,0000,,Let's pretend we never saw this.
+Dialogue: 0,0:23:37.18,0:23:40.06,Default,NTP,0000,0000,0000,,TO BE CONTINUED

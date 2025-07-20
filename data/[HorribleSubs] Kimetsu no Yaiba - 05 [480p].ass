@@ -1,0 +1,250 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: OS,Open Sans Semibold,33,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,1,0,0,0,100,100,0,0,1,2,1,8,1,1,20,0
+Style: Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: On Top,Open Sans Semibold,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,1,0,0,0,100,100,0,0,1,2,1,8,27,27,29,0
+Style: DefaultLow,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultMed,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultHigh,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultLTop,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,7,0,0,28,0
+Style: DefaultRHigh,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,1,0,0,28,0
+Style: DefaultRaisedL,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultRaisedR,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultTopR,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,9,0,0,28,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.52,0:00:01.56,Default,NTP,0000,0000,0000,,That mask.
+Dialogue: 0,0:00:01.81,0:00:03.35,Default,NTP,0000,0000,0000,,I can tell by the fox masks.
+Dialogue: 0,0:00:03.56,0:00:06.48,Default,NTP,0000,0000,0000,,{\an8}Everyone got eaten just because\Nthey were wearing them.
+Dialogue: 0,0:00:24.96,0:00:26.08,Default,NTP,0000,0000,0000,,{\an8}{\i1}Total Concentration!{\i0}
+Dialogue: 0,0:00:26.54,0:00:27.96,Default,NTP,0000,0000,0000,,{\i1}Water Breathing!{\i0}
+Dialogue: 0,0:00:32.51,0:00:33.76,Default,NTP,0000,0000,0000,,{\i1}First Form!{\i0}
+Dialogue: 0,0:00:41.81,0:00:43.52,Default,NTP,0000,0000,0000,,{\i1}Water Surface Slash!{\i0}
+Dialogue: 0,0:02:15.94,0:02:20.99,Default,NTP,0000,0000,0000,,EPISODE 5:\NMY OWN STEEL
+Dialogue: 0,0:03:43.78,0:03:44.99,Default,NTP,0000,0000,0000,,Urokodaki!
+Dialogue: 0,0:03:55.71,0:03:58.63,Default,NTP,0000,0000,0000,,Dammit! Dammit! Dammit!
+Dialogue: 0,0:03:59.71,0:04:02.97,Default,NTP,0000,0000,0000,,{\an8}My body's crumbling and disappearing.
+Dialogue: 0,0:04:03.30,0:04:04.93,Default,NTP,0000,0000,0000,,{\an8}I can't stop it!
+Dialogue: 0,0:04:13.06,0:04:14.31,Default,NTP,0000,0000,0000,,Dammit!
+Dialogue: 0,0:04:14.56,0:04:19.44,Default,NTP,0000,0000,0000,,To think that the face of a Demon Hunter\Nwill be the last thing I'll ever see...
+Dialogue: 0,0:04:24.82,0:04:27.91,Default,NTP,0000,0000,0000,,How did it come to this?
+Dialogue: 0,0:04:32.41,0:04:36.04,Default,NTP,0000,0000,0000,,I'm so scared. I'm all alone.
+Dialogue: 0,0:04:38.21,0:04:40.84,Default,NTP,0000,0000,0000,,Brother, where are you?
+Dialogue: 0,0:04:43.09,0:04:45.30,Default,NTP,0000,0000,0000,,{\an8}I want you to hold my hand!
+Dialogue: 0,0:04:45.55,0:04:47.47,Default,NTP,0000,0000,0000,,{\an8}Like you always do!
+Dialogue: 0,0:04:48.60,0:04:49.72,Default,NTP,0000,0000,0000,,Why?
+Dialogue: 0,0:04:50.26,0:04:54.23,Default,NTP,0000,0000,0000,,Why on earth did I bite you\Nto death, Big Brother?
+Dialogue: 0,0:04:56.52,0:04:57.65,Default,NTP,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:58.52,0:05:01.65,Default,NTP,0000,0000,0000,,Wait, who's this "Brother" person?
+Dialogue: 0,0:05:09.07,0:05:10.74,Default,NTP,0000,0000,0000,,What a sad scent.
+Dialogue: 0,0:05:23.55,0:05:24.72,Default,NTP,0000,0000,0000,,God...
+Dialogue: 0,0:05:25.05,0:05:26.05,Default,NTP,0000,0000,0000,,Please...
+Dialogue: 0,0:05:32.31,0:05:34.68,Default,NTP,0000,0000,0000,,The next time this man is reborn,
+Dialogue: 0,0:05:36.10,0:05:39.06,Default,NTP,0000,0000,0000,,please make sure\Nhe doesn't turn into a demon.
+Dialogue: 0,0:05:41.07,0:05:42.57,Default,NTP,0000,0000,0000,,Brother!
+Dialogue: 0,0:05:42.82,0:05:44.82,Default,NTP,0000,0000,0000,,Brother! Brother!
+Dialogue: 0,0:05:45.07,0:05:47.03,Default,NTP,0000,0000,0000,,Hold my hand, will you?
+Dialogue: 0,0:05:48.66,0:05:50.37,Default,NTP,0000,0000,0000,,You're hopeless, you know?
+Dialogue: 0,0:05:50.70,0:05:53.04,Default,NTP,0000,0000,0000,,Still such a scaredy-cat.
+Dialogue: 0,0:06:16.31,0:06:18.44,Default,NTP,0000,0000,0000,,{\i1}Sabito, Makomo...{\i0}
+Dialogue: 0,0:06:19.35,0:06:22.65,Default,NTP,0000,0000,0000,,{\i1}and everyone else who were killed...{\i0}
+Dialogue: 0,0:06:23.82,0:06:24.82,Default,NTP,0000,0000,0000,,{\i1}I won.{\i0}
+Dialogue: 0,0:06:25.61,0:06:27.40,Default,NTP,0000,0000,0000,,{\i1}You can rest easy now.{\i0}
+Dialogue: 0,0:06:37.20,0:06:40.42,Default,NTP,0000,0000,0000,,{\i1}I guess you're going home as promised.{\i0}
+Dialogue: 0,0:06:40.96,0:06:44.50,Default,NTP,0000,0000,0000,,{\i1}Even though you're just souls,\Nyou're going back to Mt. Sagiri...{\i0}
+Dialogue: 0,0:06:51.34,0:06:53.85,Default,NTP,0000,0000,0000,,{\i1}...and to Mr. Urokodaki\Nwhom you love very much.{\i0}
+Dialogue: 0,0:07:00.60,0:07:01.94,Default,NTP,0000,0000,0000,,{\i1}If I'd ended up dead,{\i0}
+Dialogue: 0,0:07:02.44,0:07:04.36,Default,NTP,0000,0000,0000,,{\i1}my soul would've returned there, too.{\i0}
+Dialogue: 0,0:07:19.87,0:07:21.29,Default,NTP,0000,0000,0000,,There's something I wanna ask you!
+Dialogue: 0,0:07:22.08,0:07:25.84,Default,NTP,0000,0000,0000,,{\an8}How do I turn someone who's become\Na demon back into a human?
+Dialogue: 0,0:07:37.72,0:07:38.72,Default,NTP,0000,0000,0000,,Please tell me!
+Dialogue: 0,0:07:39.81,0:07:41.23,Default,NTP,0000,0000,0000,,How can I turn Nezuko...
+Dialogue: 0,0:07:42.23,0:07:44.19,Default,NTP,0000,0000,0000,,back into a human?
+Dialogue: 0,0:08:21.85,0:08:23.69,Default,NTP,0000,0000,0000,,Wisteria?
+Dialogue: 0,0:08:26.61,0:08:28.19,Default,NTP,0000,0000,0000,,I made it.
+Dialogue: 0,0:08:44.37,0:08:45.83,Default,NTP,0000,0000,0000,,{\i1}Only four of us?{\i0}
+Dialogue: 0,0:08:46.29,0:08:48.13,Default,NTP,0000,0000,0000,,{\i1}But there were at least twenty.{\i0}
+Dialogue: 0,0:08:49.50,0:08:50.84,Default,NTP,0000,0000,0000,,{\i1}I don't see that guy here, either.{\i0}
+Dialogue: 0,0:08:53.05,0:08:56.39,Default,NTP,0000,0000,0000,,It's all because I blacked out\Nat that moment.
+Dialogue: 0,0:08:57.55,0:08:59.18,Default,NTP,0000,0000,0000,,I couldn't save him.
+Dialogue: 0,0:09:00.35,0:09:02.93,Default,NTP,0000,0000,0000,,I'm gonna die. I'm a goner.
+Dialogue: 0,0:09:03.81,0:09:07.06,Default,NTP,0000,0000,0000,,Even if I survive now,\NI'm gonna die in the end anyway.
+Dialogue: 0,0:09:08.11,0:09:09.94,Default,NTP,0000,0000,0000,,- Welcome back.\N- Welcome back.
+Dialogue: 0,0:09:15.86,0:09:17.53,Default,NTP,0000,0000,0000,,Congratulations.
+Dialogue: 0,0:09:18.32,0:09:20.58,Default,NTP,0000,0000,0000,,We're pleased to see that you're safe.
+Dialogue: 0,0:09:20.91,0:09:24.75,Default,NTP,0000,0000,0000,,So? What am I supposed to do now?
+Dialogue: 0,0:09:25.41,0:09:26.71,Default,NTP,0000,0000,0000,,Where's my sword?
+Dialogue: 0,0:09:27.25,0:09:30.79,Default,NTP,0000,0000,0000,,First, we shall issue you all uniforms.
+Dialogue: 0,0:09:31.55,0:09:37.38,Default,NTP,0000,0000,0000,,We will take your measurements,\Nafter which your rank will be engraved.
+Dialogue: 0,0:09:38.09,0:09:41.22,Default,NTP,0000,0000,0000,,There are ten ranks in all...
+Dialogue: 0,0:09:41.51,0:09:42.60,Default,NTP,0000,0000,0000,,Kinoe.
+Dialogue: 0,0:09:42.60,0:09:43.64,Default,NTP,0000,0000,0000,,Kinoto.
+Dialogue: 0,0:09:43.64,0:09:44.64,Default,NTP,0000,0000,0000,,Hinoe.
+Dialogue: 0,0:09:44.64,0:09:45.64,Default,NTP,0000,0000,0000,,Hinoto.
+Dialogue: 0,0:09:45.64,0:09:46.60,Default,NTP,0000,0000,0000,,Tsuchinoe.
+Dialogue: 0,0:09:46.85,0:09:47.85,Default,NTP,0000,0000,0000,,Tsuchinoto.
+Dialogue: 0,0:09:48.10,0:09:48.85,Default,NTP,0000,0000,0000,,Kanoe.
+Dialogue: 0,0:09:49.10,0:09:49.90,Default,NTP,0000,0000,0000,,Kanoto.
+Dialogue: 0,0:09:50.15,0:09:51.11,Default,NTP,0000,0000,0000,,Mizunoe...
+Dialogue: 0,0:09:51.36,0:09:52.86,Default,NTP,0000,0000,0000,,...and Mizunoto.
+Dialogue: 0,0:09:53.15,0:09:58.36,Default,NTP,0000,0000,0000,,Currently, you are\Nat the lowest rank, Mizunoto.
+Dialogue: 0,0:09:58.86,0:10:00.20,Default,NTP,0000,0000,0000,,And our swords?
+Dialogue: 0,0:10:00.82,0:10:06.66,Default,NTP,0000,0000,0000,,Today, we will let you\Nchoose the ore for your swords.
+Dialogue: 0,0:10:06.66,0:10:11.09,Default,NTP,0000,0000,0000,,However, the swords will take\Nten to fifteen days to complete.
+Dialogue: 0,0:10:11.34,0:10:12.25,Default,NTP,0000,0000,0000,,Are you kidding me?
+Dialogue: 0,0:10:12.25,0:10:13.50,Default,NTP,0000,0000,0000,,But first...
+Dialogue: 0,0:10:22.39,0:10:27.60,Default,NTP,0000,0000,0000,,We will now assign each of you\Nyour own Kasugai Crow.
+Dialogue: 0,0:10:28.14,0:10:30.86,Default,NTP,0000,0000,0000,,Kasugai Crow?
+Dialogue: 0,0:10:31.40,0:10:35.99,Default,NTP,0000,0000,0000,,These Kasugai Crows can be used\Nprimarily for communication.
+Dialogue: 0,0:10:36.78,0:10:38.11,Default,NTP,0000,0000,0000,,Did you say "crow"?
+Dialogue: 0,0:10:38.53,0:10:40.03,Default,NTP,0000,0000,0000,,Isn't this a sparrow, though?
+Dialogue: 0,0:10:40.03,0:10:41.70,Default,NTP,0000,0000,0000,,Don't give me that crap!
+Dialogue: 0,0:10:47.16,0:10:50.08,Default,NTP,0000,0000,0000,,Who the hell cares\Nabout some stupid crow?
+Dialogue: 0,0:10:55.55,0:10:57.80,Default,NTP,0000,0000,0000,,{\an8}I want a sword, you hear?
+Dialogue: 0,0:10:58.05,0:11:00.13,Default,NTP,0000,0000,0000,,{\an8}Gimme one right now!
+Dialogue: 0,0:11:00.38,0:11:02.30,Default,NTP,0000,0000,0000,,{\an8}The Demon Slayers' sword!
+Dialogue: 0,0:11:02.55,0:11:04.47,Default,NTP,0000,0000,0000,,{\an8}The Color Changing Sword!
+Dialogue: 0,0:11:08.98,0:11:10.56,Default,NTP,0000,0000,0000,,Take your hand off her!
+Dialogue: 0,0:11:10.90,0:11:13.19,Default,NTP,0000,0000,0000,,Or else I'll break your arm!
+Dialogue: 0,0:11:14.69,0:11:16.44,Default,NTP,0000,0000,0000,,Who the hell are you?
+Dialogue: 0,0:11:17.53,0:11:19.20,Default,NTP,0000,0000,0000,,Wh-Wh-Wh-What should I do?
+Dialogue: 0,0:11:19.45,0:11:21.32,Default,NTP,0000,0000,0000,,Let's see you try it!
+Dialogue: 0,0:11:41.26,0:11:43.68,Default,NTP,0000,0000,0000,,Are you finished chatting?
+Dialogue: 0,0:11:51.02,0:11:55.73,Default,NTP,0000,0000,0000,,Now then, please select an ore.
+Dialogue: 0,0:11:57.78,0:11:59.49,Default,NTP,0000,0000,0000,,The steel for the sword...
+Dialogue: 0,0:11:59.78,0:12:02.74,Default,NTP,0000,0000,0000,,that will annihilate demons and protect you...
+Dialogue: 0,0:12:03.03,0:12:05.07,Default,NTP,0000,0000,0000,,will be of your own choosing.
+Dialogue: 0,0:12:05.49,0:12:08.62,Default,NTP,0000,0000,0000,,Well, not that I'm going to live\Nvery long. Probably.
+Dialogue: 0,0:12:15.04,0:12:16.79,Default,NTP,0000,0000,0000,,{\an8}{\i1}They're asking us to choose,{\i0}
+Dialogue: 0,0:12:17.50,0:12:19.55,Default,NTP,0000,0000,0000,,{\an8}{\i1}but how are we supposed to pick one out?{\i0}
+Dialogue: 0,0:12:20.80,0:12:23.34,Default,NTP,0000,0000,0000,,{\i1}I've never seen an ore before,{\i0}
+Dialogue: 0,0:12:23.72,0:12:26.39,Default,NTP,0000,0000,0000,,{\i1}and I can't tell the difference anyway.{\i0}
+Dialogue: 0,0:12:28.56,0:12:30.68,Default,NTP,0000,0000,0000,,{\an8}I have absolutely no clue.
+Dialogue: 0,0:12:50.79,0:12:51.91,Default,NTP,0000,0000,0000,,I see.
+Dialogue: 0,0:12:55.58,0:12:57.67,Default,NTP,0000,0000,0000,,As many as five of them\Nmanaged to survive, huh?
+Dialogue: 0,0:12:58.59,0:13:00.13,Default,NTP,0000,0000,0000,,Excellent.
+Dialogue: 0,0:13:02.26,0:13:05.18,Default,NTP,0000,0000,0000,,The number of my children\Nhas increased again.
+Dialogue: 0,0:13:06.05,0:13:08.39,Default,NTP,0000,0000,0000,,I wonder what kinds of swordsmen\Nthey'll become.
+Dialogue: 0,0:13:32.29,0:13:33.66,Default,NTP,0000,0000,0000,,{\i1}I was so naive.{\i0}
+Dialogue: 0,0:13:35.00,0:13:38.67,Default,NTP,0000,0000,0000,,{\i1}I couldn't even have a talk with a demon.{\i0}
+Dialogue: 0,0:13:39.75,0:13:42.84,Default,NTP,0000,0000,0000,,{\i1}All they did was attack me\Nand try to kill me right away.{\i0}
+Dialogue: 0,0:13:43.13,0:13:45.67,Default,NTP,0000,0000,0000,,Sorry, Nezuko.
+Dialogue: 0,0:13:47.84,0:13:50.26,Default,NTP,0000,0000,0000,,I never got to ask them...
+Dialogue: 0,0:13:51.93,0:13:53.97,Default,NTP,0000,0000,0000,,how to turn a demon back into a human.
+Dialogue: 0,0:13:59.73,0:14:01.82,Default,NTP,0000,0000,0000,,{\i1}Even my uniform is heavy.{\i0}
+Dialogue: 0,0:14:02.73,0:14:04.90,Default,NTP,0000,0000,0000,,{\i1}I wanna get home as soon as possible,{\i0}
+Dialogue: 0,0:14:05.49,0:14:07.28,Default,NTP,0000,0000,0000,,{\i1}but my whole body hurts.{\i0}
+Dialogue: 0,0:14:35.68,0:14:37.06,Default,NTP,0000,0000,0000,,I made it.
+Dialogue: 0,0:14:37.98,0:14:40.52,Default,NTP,0000,0000,0000,,Nezuko... Mr. Urokodaki...
+Dialogue: 0,0:14:50.70,0:14:52.99,Default,NTP,0000,0000,0000,,Hey! Nezuko!
+Dialogue: 0,0:14:53.24,0:14:54.20,Default,NTP,0000,0000,0000,,You...
+Dialogue: 0,0:14:54.62,0:14:56.12,Default,NTP,0000,0000,0000,,So, you're awake?
+Dialogue: 0,0:14:59.33,0:15:00.29,Default,NTP,0000,0000,0000,,Nezuko!
+Dialogue: 0,0:15:13.93,0:15:14.89,Default,NTP,0000,0000,0000,,Why...
+Dialogue: 0,0:15:15.51,0:15:17.89,Default,NTP,0000,0000,0000,,Why'd you fall asleep all of a sudden?
+Dialogue: 0,0:15:18.31,0:15:20.73,Default,NTP,0000,0000,0000,,Never waking up once!
+Dialogue: 0,0:15:22.48,0:15:25.19,Default,NTP,0000,0000,0000,,I was worried\Nyou were going to die, you know?!
+Dialogue: 0,0:15:32.57,0:15:35.70,Default,NTP,0000,0000,0000,,{\an8}You came back to us alive.
+Dialogue: 0,0:15:48.26,0:15:52.26,Default,NTP,0000,0000,0000,,I see. You killed that morphed demon.
+Dialogue: 0,0:15:52.55,0:15:53.51,Default,NTP,0000,0000,0000,,Yes.
+Dialogue: 0,0:15:55.55,0:15:57.06,Default,NTP,0000,0000,0000,,At last.
+Dialogue: 0,0:15:59.31,0:16:01.77,Default,NTP,0000,0000,0000,,I'm truly impressed\Nthat you made it back.
+Dialogue: 0,0:16:02.02,0:16:03.02,Default,NTP,0000,0000,0000,,Yes.
+Dialogue: 0,0:16:05.36,0:16:08.98,Default,NTP,0000,0000,0000,,There are several kinds of demons.
+Dialogue: 0,0:16:09.57,0:16:13.20,Default,NTP,0000,0000,0000,,The demons who use a special spell\Ncalled the "Blood Demon Art"
+Dialogue: 0,0:16:13.20,0:16:15.03,Default,NTP,0000,0000,0000,,possess supernatural abilities.
+Dialogue: 0,0:16:16.83,0:16:21.04,Default,NTP,0000,0000,0000,,You may have to fight\Nthose demons, as well, from now on.
+Dialogue: 0,0:16:21.29,0:16:26.54,Default,NTP,0000,0000,0000,,And battling them will be far more difficult\Nthan anything you've known until now.
+Dialogue: 0,0:16:27.59,0:16:32.30,Default,NTP,0000,0000,0000,,Even so, Tanjiro,\NI'm sure you'll be fine.
+Dialogue: 0,0:16:33.80,0:16:34.80,Default,NTP,0000,0000,0000,,Right.
+Dialogue: 0,0:16:37.10,0:16:37.93,Default,NTP,0000,0000,0000,,Um...
+Dialogue: 0,0:16:38.35,0:16:41.81,Default,NTP,0000,0000,0000,,I think that Nezuko's not\Nlike the other demons.
+Dialogue: 0,0:16:42.10,0:16:45.35,Default,NTP,0000,0000,0000,,Do you think it could it be\Nthat Whatchamacallit Art?
+Dialogue: 0,0:16:45.60,0:16:48.48,Default,NTP,0000,0000,0000,,No, I don't think so.
+Dialogue: 0,0:16:48.73,0:16:52.36,Default,NTP,0000,0000,0000,,I wouldn't call that an example\Nof the Blood Demon Art.
+Dialogue: 0,0:16:53.11,0:16:55.32,Default,NTP,0000,0000,0000,,I'm just guessing here,
+Dialogue: 0,0:16:55.66,0:16:58.99,Default,NTP,0000,0000,0000,,but it could be that Nezuko's recovering\Nher strength by sleeping
+Dialogue: 0,0:16:58.99,0:17:03.41,Default,NTP,0000,0000,0000,,instead of consuming human flesh.
+Dialogue: 0,0:17:07.63,0:17:10.75,Default,NTP,0000,0000,0000,,{\i1}I'll protect you, Nezuko.{\i0}
+Dialogue: 0,0:17:19.60,0:17:23.56,Default,NTP,0000,0000,0000,,15 DAYS LATER
+Dialogue: 0,0:17:39.12,0:17:40.16,Default,NTP,0000,0000,0000,,Uh...
+Dialogue: 0,0:17:40.41,0:17:43.16,Default,NTP,0000,0000,0000,,My name is Haganezuka.
+Dialogue: 0,0:17:43.41,0:17:45.92,Default,NTP,0000,0000,0000,,I have forged Tanjiro Kamado's sword,
+Dialogue: 0,0:17:46.17,0:17:47.63,Default,NTP,0000,0000,0000,,and I am here to deliver it.
+Dialogue: 0,0:17:50.63,0:17:53.80,Default,NTP,0000,0000,0000,,Um, I'm Tanjiro Kamado.
+Dialogue: 0,0:17:54.42,0:17:55.34,Default,NTP,0000,0000,0000,,Please come inside.
+Dialogue: 0,0:17:55.34,0:17:57.18,Default,NTP,0000,0000,0000,,This is the Nichirin Sword.
+Dialogue: 0,0:17:57.76,0:17:59.68,Default,NTP,0000,0000,0000,,And I forged it.
+Dialogue: 0,0:17:59.68,0:18:00.72,Default,NTP,0000,0000,0000,,Um...
+Dialogue: 0,0:18:00.97,0:18:02.60,Default,NTP,0000,0000,0000,,Please come in\Nso I can serve you some te—
+Dialogue: 0,0:18:02.60,0:18:04.31,Default,NTP,0000,0000,0000,,The materials for a Nichirin Sword
+Dialogue: 0,0:18:04.56,0:18:07.56,Default,NTP,0000,0000,0000,,can be obtained from the mountain\Nclosest to the sun.
+Dialogue: 0,0:18:08.35,0:18:12.11,Default,NTP,0000,0000,0000,,Scarlet Crimson Iron Sand\Nand Scarlet Crimson Ore.
+Dialogue: 0,0:18:12.40,0:18:16.45,Default,NTP,0000,0000,0000,,These produce steel\Nthat can absorb sunlight.
+Dialogue: 0,0:18:16.82,0:18:18.61,Default,NTP,0000,0000,0000,,Wow, is that right?
+Dialogue: 0,0:18:18.91,0:18:22.66,Default,NTP,0000,0000,0000,,Mt. Yoko is bathed in sunlight\Nall day long, you see.
+Dialogue: 0,0:18:23.62,0:18:25.58,Default,NTP,0000,0000,0000,,Never a cloud in the sky,\Nnor any rain.
+Dialogue: 0,0:18:24.66,0:18:26.66,Default,NTP,0000,0000,0000,,{\an8}There he goes again,
+Dialogue: 0,0:18:25.58,0:18:28.54,Default,NTP,0000,0000,0000,,You're going to get dirty,\Nso could you get up for a second?
+Dialogue: 0,0:18:26.66,0:18:29.00,Default,NTP,0000,0000,0000,,{\an8}never listening to what others say...
+Dialogue: 0,0:18:30.75,0:18:32.21,Default,NTP,0000,0000,0000,,A clown mask?
+Dialogue: 0,0:18:34.55,0:18:38.38,Default,NTP,0000,0000,0000,,Hey, you're a Child of Brightness, aren't you?
+Dialogue: 0,0:18:38.80,0:18:40.89,Default,NTP,0000,0000,0000,,Now that's what I call lucky.
+Dialogue: 0,0:18:41.64,0:18:45.10,Default,NTP,0000,0000,0000,,Oh no, I'm the son of Tanjuro and Kie.
+Dialogue: 0,0:18:45.56,0:18:47.31,Default,NTP,0000,0000,0000,,That's not what I meant.
+Dialogue: 0,0:18:47.77,0:18:51.73,Default,NTP,0000,0000,0000,,{\an8}See how your hair and eyes\Nare a reddish color?
+Dialogue: 0,0:18:52.15,0:18:55.53,Default,NTP,0000,0000,0000,,{\an8}When a kid like you is born\Ninto a family that works with fire,
+Dialogue: 0,0:18:55.53,0:18:58.49,Default,NTP,0000,0000,0000,,{\an8}it's considered lucky\Nand a cause for celebration.
+Dialogue: 0,0:18:58.74,0:19:01.82,Default,NTP,0000,0000,0000,,{\an8}Is that right? I had no idea.
+Dialogue: 0,0:19:02.07,0:19:05.41,Default,NTP,0000,0000,0000,,There's a good chance\Nthat this sword will turn red!
+Dialogue: 0,0:19:05.70,0:19:07.45,Default,NTP,0000,0000,0000,,Right, Urokodaki?
+Dialogue: 0,0:19:07.96,0:19:09.04,Default,NTP,0000,0000,0000,,Yeah.
+Dialogue: 0,0:19:13.96,0:19:15.96,Default,NTP,0000,0000,0000,,Come on, hurry up and draw it!
+Dialogue: 0,0:19:16.21,0:19:20.93,Default,NTP,0000,0000,0000,,Nichirin Swords are also known\Nas "Color Changing Swords."
+Dialogue: 0,0:19:21.26,0:19:24.56,Default,NTP,0000,0000,0000,,They change color\Ndepending on the bearer.
+Dialogue: 0,0:19:51.71,0:19:52.67,Default,NTP,0000,0000,0000,,Black!
+Dialogue: 0,0:19:52.92,0:19:54.34,Default,NTP,0000,0000,0000,,It's black, huh?
+Dialogue: 0,0:19:55.38,0:19:57.59,Default,NTP,0000,0000,0000,,Is it bad or something\Nif it turns black?
+Dialogue: 0,0:19:58.34,0:19:59.63,Default,NTP,0000,0000,0000,,Is it unlucky?
+Dialogue: 0,0:19:59.88,0:20:02.97,Default,NTP,0000,0000,0000,,No, not necessarily.
+Dialogue: 0,0:20:02.97,0:20:06.01,Default,NTP,0000,0000,0000,,But you don't see\Nthis pitch black too often.
+Dialogue: 0,0:20:07.68,0:20:11.52,Default,NTP,0000,0000,0000,,And I was so hoping\NI'd get to see a bright red sword!
+Dialogue: 0,0:20:11.77,0:20:13.02,Default,NTP,0000,0000,0000,,Dammit!
+Dialogue: 0,0:20:15.40,0:20:17.65,Default,NTP,0000,0000,0000,,Ouch! Stop!
+Dialogue: 0,0:20:17.90,0:20:20.82,Default,NTP,0000,0000,0000,,Please calm down!\NHow old do you think you are?!
+Dialogue: 0,0:20:20.82,0:20:22.66,Default,NTP,0000,0000,0000,,I'm thirty-seven!
+Dialogue: 0,0:20:31.08,0:20:33.04,Default,NTP,0000,0000,0000,,Tanjiro Kamado!
+Dialogue: 0,0:20:33.29,0:20:35.08,Default,NTP,0000,0000,0000,,Here are your orders!
+Dialogue: 0,0:20:36.34,0:20:37.84,Default,NTP,0000,0000,0000,,It talks!
+Dialogue: 0,0:20:38.09,0:20:41.34,Default,NTP,0000,0000,0000,,Make your way to a town\Nto the northwest!
+Dialogue: 0,0:20:41.59,0:20:45.34,Default,NTP,0000,0000,0000,,Young girls have been vanishing there!
+Dialogue: 0,0:21:02.49,0:21:04.24,Default,NTP,0000,0000,0000,,Night after night,
+Dialogue: 0,0:21:04.24,0:21:06.78,Default,NTP,0000,0000,0000,,young girls have been vanishing!
+Dialogue: 0,0:21:07.74,0:21:12.50,Default,NTP,0000,0000,0000,,Hunt down the demon\Nlurking there and kill it!
+Dialogue: 0,0:21:13.00,0:21:17.25,Default,NTP,0000,0000,0000,,Tanjiro Kamado, prepare yourself\Nwell for this task!
+Dialogue: 0,0:21:17.54,0:21:19.09,Default,NTP,0000,0000,0000,,This is your first assignment
+Dialogue: 0,0:21:19.46,0:21:22.09,Default,NTP,0000,0000,0000,,as a Demon Hunter!
+Dialogue: 0,0:21:23.13,0:21:25.93,Default,NTP,0000,0000,0000,,{\an8}My first... assignment...
+Dialogue: 0,0:23:00.86,0:23:16.37,Default,NTP,0000,0000,0000,,{\an9}PREVIEW
+Dialogue: 0,0:23:00.86,0:23:16.37,Default,NTP,0000,0000,0000,,{\an7}RUSTLE RUSTLE
+Dialogue: 0,0:23:03.32,0:23:05.82,Default,NTP,0000,0000,0000,,Kasugai Crow, say hello to everyone.
+Dialogue: 0,0:23:06.24,0:23:09.45,Default,NTP,0000,0000,0000,,I don't take orders from you!
+Dialogue: 0,0:23:14.87,0:23:16.00,Default,NTP,0000,0000,0000,,Jeez.
+Dialogue: 0,0:23:16.66,0:23:19.62,Default,NTP,0000,0000,0000,,Now, it's time for a Taisho secret!
+Dialogue: 0,0:23:19.62,0:23:24.09,Default,NTP,0000,0000,0000,,Forget that! It's time\Nfor the next mission! Hurry up!
+Dialogue: 0,0:23:24.09,0:23:26.63,Default,NTP,0000,0000,0000,,All right! I got it!
+Dialogue: 0,0:23:28.09,0:23:30.97,Default,NTP,0000,0000,0000,,Next, Episode 6,\N"Swordsman Accompanying a Demon"!
+Dialogue: 0,0:23:30.97,0:23:34.93,Default,NTP,0000,0000,0000,,Hey, you there!\NIf you miss it, I'll peck you!
+Dialogue: 0,0:23:34.93,0:23:35.93,Default,NTP,0000,0000,0000,,Hey!
+Dialogue: 0,0:23:35.93,0:23:39.98,Default,NTP,0000,0000,0000,,TO BE CONTINUED

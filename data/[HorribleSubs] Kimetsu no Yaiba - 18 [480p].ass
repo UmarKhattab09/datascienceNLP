@@ -1,0 +1,294 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: OS,Open Sans Semibold,33,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,1,0,0,0,100,100,0,0,1,2,1,8,1,1,20,0
+Style: Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: On Top,Open Sans Semibold,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,1,0,0,0,100,100,0,0,1,2,1,8,27,27,29,0
+Style: DefaultLow,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultMed,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultHigh,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultLTop,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,7,0,0,28,0
+Style: DefaultRHigh,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,1,0,0,28,0
+Style: DefaultRaisedL,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultRaisedR,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultTopR,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,9,0,0,28,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:09.44,0:00:12.65,Default,NTP,0000,0000,0000,,Were you acquainted with any of them?
+Dialogue: 0,0:00:13.82,0:00:17.24,Default,NTP,0000,0000,0000,,There don't seem to be\Nany survivors around here.
+Dialogue: 0,0:00:18.45,0:00:25.33,Default,NTP,0000,0000,0000,,We were advised that several rookie\NMizunoto had joined the battle,
+Dialogue: 0,0:00:26.33,0:00:28.63,Default,NTP,0000,0000,0000,,but they might be dead by now,\Ndon't you think?
+Dialogue: 0,0:00:30.05,0:00:30.88,Default,NTP,0000,0000,0000,,Let's go.
+Dialogue: 0,0:00:33.01,0:00:35.22,Default,NTP,0000,0000,0000,,Isn't the Moon lovely?
+Dialogue: 0,0:00:37.22,0:00:41.47,Default,NTP,0000,0000,0000,,Since we've been given this\Njoint mission, let's try to get along.
+Dialogue: 0,0:00:42.77,0:00:44.94,Default,NTP,0000,0000,0000,,I'm only here to slay some demons.
+Dialogue: 0,0:00:45.35,0:00:47.15,Default,NTP,0000,0000,0000,,How callous of you!
+Dialogue: 0,0:00:48.40,0:00:51.44,Default,NTP,0000,0000,0000,,All right, then, let's split up here.
+Dialogue: 0,0:00:51.90,0:00:53.90,Default,NTP,0000,0000,0000,,I shall proceed from the west.
+Dialogue: 0,0:00:54.49,0:00:55.49,Default,NTP,0000,0000,0000,,Agreed.
+Dialogue: 0,0:01:05.04,0:01:07.54,Default,NTP,0000,0000,0000,,{\an8}Don't come near my family!
+Dialogue: 0,0:01:07.79,0:01:10.13,Default,NTP,0000,0000,0000,,Stay away!
+Dialogue: 0,0:01:14.01,0:01:16.13,Default,NTP,0000,0000,0000,,{\i1}Water Breathing, Second Form!{\i0}
+Dialogue: 0,0:01:16.43,0:01:18.01,Default,NTP,0000,0000,0000,,{\i1}Water Wheel!{\i0}
+Dialogue: 0,0:02:58.99,0:03:04.03,Default,NTP,0000,0000,0000,,EPISODE 18:\NA FORGED BOND
+Dialogue: 0,0:03:08.83,0:03:09.91,Default,NTP,0000,0000,0000,,{\i1}It's no good!{\i0}
+Dialogue: 0,0:03:10.16,0:03:11.42,Default,NTP,0000,0000,0000,,{\i1}The blade won't go through!{\i0}
+Dialogue: 0,0:03:21.51,0:03:23.47,Default,NTP,0000,0000,0000,,So hard!
+Dialogue: 0,0:03:29.77,0:03:31.73,Default,NTP,0000,0000,0000,,I can't slash him even if I use an attack!
+Dialogue: 0,0:03:31.98,0:03:32.90,Default,NTP,0000,0000,0000,,What should I do?
+Dialogue: 0,0:03:33.15,0:03:34.19,Default,NTP,0000,0000,0000,,What should I do?
+Dialogue: 0,0:03:36.27,0:03:38.69,Default,NTP,0000,0000,0000,,Don't come near my family!
+Dialogue: 0,0:03:38.94,0:03:42.95,Default,NTP,0000,0000,0000,,Stay away!
+Dialogue: 0,0:03:46.99,0:03:48.37,Default,NTP,0000,0000,0000,,{\an8}What are you looking at?
+Dialogue: 0,0:03:48.62,0:03:49.58,Default,NTP,0000,0000,0000,,{\an8}I'm over here!
+Dialogue: 0,0:03:49.83,0:03:52.08,Default,NTP,0000,0000,0000,,{\an8}Curse you!
+Dialogue: 0,0:03:58.67,0:04:00.26,Default,NTP,0000,0000,0000,,Ouch!
+Dialogue: 0,0:04:00.51,0:04:03.43,Default,NTP,0000,0000,0000,,All that force\Nwith just one swipe of its arm!
+Dialogue: 0,0:04:03.68,0:04:06.76,Default,NTP,0000,0000,0000,,It's no good! I'm not at full power!
+Dialogue: 0,0:04:07.10,0:04:09.85,Default,NTP,0000,0000,0000,,Not to mention,\Nthe bleeding's making me stumble!
+Dialogue: 0,0:04:17.57,0:04:20.23,Default,NTP,0000,0000,0000,,{\i1}Water Breathing, Second Form...{\i0}
+Dialogue: 0,0:04:20.48,0:04:23.45,Default,NTP,0000,0000,0000,,{\i1}Improved, Lateral Water Wheel!{\i0}
+Dialogue: 0,0:04:44.80,0:04:45.97,Default,NTP,0000,0000,0000,,What was that?
+Dialogue: 0,0:04:46.55,0:04:47.89,Default,NTP,0000,0000,0000,,What's going on?
+Dialogue: 0,0:04:47.89,0:04:50.01,Default,NTP,0000,0000,0000,,Inosuke! You okay?
+Dialogue: 0,0:04:52.93,0:04:54.52,Default,NTP,0000,0000,0000,,{\i1}He did that?{\i0}
+Dialogue: 0,0:04:54.77,0:04:57.02,Default,NTP,0000,0000,0000,,{\i1}That was some move, dammit!{\i0}
+Dialogue: 0,0:05:04.57,0:05:05.36,Default,NTP,0000,0000,0000,,{\i1}All right!{\i0}
+Dialogue: 0,0:05:05.61,0:05:08.03,Default,NTP,0000,0000,0000,,{\i1}I should be able to chop off\Nthat tough neck now!{\i0}
+Dialogue: 0,0:05:08.87,0:05:10.08,Default,NTP,0000,0000,0000,,{\i1}Water Breathing...{\i0}
+Dialogue: 0,0:05:10.49,0:05:13.04,Default,NTP,0000,0000,0000,,{\i1}The final and most powerful form!{\i0}
+Dialogue: 0,0:05:17.88,0:05:19.42,Default,NTP,0000,0000,0000,,{\i1}He's got a different air about him now.{\i0}
+Dialogue: 0,0:05:20.29,0:05:24.01,Default,NTP,0000,0000,0000,,{\i1}He's about to do\Nsomething totally mind-blowing!{\i0}
+Dialogue: 0,0:05:26.30,0:05:28.05,Default,NTP,0000,0000,0000,,{\i1}Now I'll finish him off!{\i0}
+Dialogue: 0,0:05:30.89,0:05:32.01,Default,NTP,0000,0000,0000,,{\an8}{\i1}Total Concentration...{\i0}
+Dialogue: 0,0:05:32.43,0:05:33.72,Default,NTP,0000,0000,0000,,{\an8}{\i1}Water Breathing...{\i0}
+Dialogue: 0,0:05:34.39,0:05:35.48,Default,NTP,0000,0000,0000,,{\i1}Tenth Form!{\i0}
+Dialogue: 0,0:05:44.07,0:05:44.90,Default,NTP,0000,0000,0000,,L-Look out!
+Dialogue: 0,0:05:48.16,0:05:49.57,Default,NTP,0000,0000,0000,,Kentaro!
+Dialogue: 0,0:05:49.91,0:05:51.83,Default,NTP,0000,0000,0000,,I-Inosuke!
+Dialogue: 0,0:05:52.24,0:05:54.83,Default,NTP,0000,0000,0000,,Don't die until I get back!
+Dialogue: 0,0:05:55.25,0:05:57.21,Default,NTP,0000,0000,0000,,That's one of the Twelve Kizuki!
+Dialogue: 0,0:05:57.54,0:05:58.42,Default,NTP,0000,0000,0000,,Don't die!
+Dialogue: 0,0:05:58.83,0:05:59.83,Default,NTP,0000,0000,0000,,Don't die!
+Dialogue: 0,0:06:00.13,0:06:02.80,Default,NTP,0000,0000,0000,,Whatever you do, don't die!
+Dialogue: 0,0:06:15.14,0:06:16.02,Default,NTP,0000,0000,0000,,Oh, crap!
+Dialogue: 0,0:06:29.70,0:06:34.62,Default,NTP,0000,0000,0000,,{\i1}It's getting really hard to breathe now.{\i0}
+Dialogue: 0,0:06:35.24,0:06:43.42,Default,NTP,0000,0000,0000,,{\i1}I have no feeling\Nin my arms and legs anymore.{\i0}
+Dialogue: 0,0:06:56.81,0:06:58.64,Default,NTP,0000,0000,0000,,{\i1}Nezuko...{\i0}
+Dialogue: 0,0:06:59.31,0:07:00.31,Default,NTP,0000,0000,0000,,{\i1}I'm sorry.{\i0}
+Dialogue: 0,0:07:07.74,0:07:09.49,Default,NTP,0000,0000,0000,,{\i1}Don't give up!{\i0}
+Dialogue: 0,0:07:10.70,0:07:12.45,Default,NTP,0000,0000,0000,,{\i1}Don't give up!{\i0}
+Dialogue: 0,0:07:13.74,0:07:15.58,Default,NTP,0000,0000,0000,,{\i1}Don't give up!{\i0}
+Dialogue: 0,0:07:16.70,0:07:18.66,Default,NTP,0000,0000,0000,,{\i1}Don't...{\i0}
+Dialogue: 0,0:07:18.95,0:07:20.92,Default,NTP,0000,0000,0000,,{\an8}{\i1}give up!{\i0}
+Dialogue: 0,0:07:44.36,0:07:47.07,Default,NTP,0000,0000,0000,,{\an8}{\i1}Who are you?{\i0}
+Dialogue: 0,0:07:50.90,0:07:52.28,Default,NTP,0000,0000,0000,,{\an8}Yoo-hoo!
+Dialogue: 0,0:07:52.86,0:07:54.32,Default,NTP,0000,0000,0000,,{\an8}Are you all right?
+Dialogue: 0,0:08:00.79,0:08:03.42,Default,NTP,0000,0000,0000,,{\i1}Water Breathing, Second Form!{\i0}
+Dialogue: 0,0:08:05.13,0:08:06.42,Default,NTP,0000,0000,0000,,{\i1}Water Wheel!{\i0}
+Dialogue: 0,0:08:14.22,0:08:16.39,Default,NTP,0000,0000,0000,,I managed to land somehow!
+Dialogue: 0,0:08:19.52,0:08:21.64,Default,NTP,0000,0000,0000,,I beg of you! Please stop!
+Dialogue: 0,0:08:51.55,0:08:53.01,Default,NTP,0000,0000,0000,,What are you looking at?
+Dialogue: 0,0:08:53.80,0:08:55.84,Default,NTP,0000,0000,0000,,This isn't some show, you know.
+Dialogue: 0,0:08:57.72,0:08:59.81,Default,NTP,0000,0000,0000,,Wh-What are you doing?
+Dialogue: 0,0:09:00.51,0:09:03.43,Default,NTP,0000,0000,0000,,Aren't you two allies?
+Dialogue: 0,0:09:04.14,0:09:05.39,Default,NTP,0000,0000,0000,,Allies?
+Dialogue: 0,0:09:05.90,0:09:09.19,Default,NTP,0000,0000,0000,,Don't put us in the same category\Nas something that flimsy.
+Dialogue: 0,0:09:09.65,0:09:11.44,Default,NTP,0000,0000,0000,,We're family.
+Dialogue: 0,0:09:11.94,0:09:14.28,Default,NTP,0000,0000,0000,,We're joined by a powerful bond.
+Dialogue: 0,0:09:15.36,0:09:17.36,Default,NTP,0000,0000,0000,,And besides,
+Dialogue: 0,0:09:17.74,0:09:20.20,Default,NTP,0000,0000,0000,,this is between me and my sister.
+Dialogue: 0,0:09:20.87,0:09:23.12,Default,NTP,0000,0000,0000,,So don't interfere.
+Dialogue: 0,0:09:23.87,0:09:25.16,Default,NTP,0000,0000,0000,,{\an8}Or I'll carve you up.
+Dialogue: 0,0:09:27.50,0:09:28.50,Default,NTP,0000,0000,0000,,You're wrong!
+Dialogue: 0,0:09:29.04,0:09:30.71,Default,NTP,0000,0000,0000,,Whether it's your family or an ally,
+Dialogue: 0,0:09:30.96,0:09:32.96,Default,NTP,0000,0000,0000,,if you have a strong bond between you,
+Dialogue: 0,0:09:33.21,0:09:35.22,Default,NTP,0000,0000,0000,,then either one should be just as precious!
+Dialogue: 0,0:09:35.72,0:09:38.39,Default,NTP,0000,0000,0000,,Calling it flimsy\Nif you're not related by blood...
+Dialogue: 0,0:09:38.84,0:09:40.18,Default,NTP,0000,0000,0000,,That's not true at all!
+Dialogue: 0,0:09:40.93,0:09:46.19,Default,NTP,0000,0000,0000,,Not only that, but those who have\Na strong bond give off the scent of trust!
+Dialogue: 0,0:09:46.56,0:09:51.36,Default,NTP,0000,0000,0000,,But all I'm picking up from you two\Nis the scent of terror, hatred and repulsion!
+Dialogue: 0,0:09:52.19,0:09:54.40,Default,NTP,0000,0000,0000,,That's not what you call a bond!
+Dialogue: 0,0:09:54.74,0:09:55.95,Default,NTP,0000,0000,0000,,It's counterfeit!
+Dialogue: 0,0:09:56.24,0:09:57.45,Default,NTP,0000,0000,0000,,It's forged!
+Dialogue: 0,0:10:03.41,0:10:04.75,Default,NTP,0000,0000,0000,,You...
+Dialogue: 0,0:10:10.13,0:10:14.00,Default,NTP,0000,0000,0000,,Hey! Look at that,\Na demon that's just the right size.
+Dialogue: 0,0:10:14.30,0:10:17.76,Default,NTP,0000,0000,0000,,Even I can take down\Na kid demon like this one.
+Dialogue: 0,0:10:18.76,0:10:19.93,Default,NTP,0000,0000,0000,,Hold up a second please!
+Dialogue: 0,0:10:19.93,0:10:21.64,Default,NTP,0000,0000,0000,,You can just back off!
+Dialogue: 0,0:10:22.01,0:10:24.64,Default,NTP,0000,0000,0000,,I want to take the safe route\Nup the ladder.
+Dialogue: 0,0:10:25.18,0:10:29.52,Default,NTP,0000,0000,0000,,Since once you move up,\Nyou get more money from the top guys.
+Dialogue: 0,0:10:29.98,0:10:32.94,Default,NTP,0000,0000,0000,,My unit's practically been wiped out,
+Dialogue: 0,0:10:33.19,0:10:38.49,Default,NTP,0000,0000,0000,,but I'll slay myself a decent-sized demon\Nand head down the mountain.
+Dialogue: 0,0:10:38.74,0:10:39.57,Default,NTP,0000,0000,0000,,Take this!
+Dialogue: 0,0:10:39.86,0:10:41.53,Default,NTP,0000,0000,0000,,Don't do it! Stop!
+Dialogue: 0,0:10:48.08,0:10:50.25,Default,NTP,0000,0000,0000,,{\i1}Shattered to pieces in an instant!{\i0}
+Dialogue: 0,0:10:50.62,0:10:51.79,Default,NTP,0000,0000,0000,,{\i1}But how did he...{\i0}
+Dialogue: 0,0:10:53.13,0:10:55.80,Default,NTP,0000,0000,0000,,Hey, what did you say?
+Dialogue: 0,0:11:00.47,0:11:01.47,Default,NTP,0000,0000,0000,,Look, you...
+Dialogue: 0,0:11:02.72,0:11:05.47,Default,NTP,0000,0000,0000,,What was it that you just said?
+Dialogue: 0,0:11:08.27,0:11:10.06,Default,NTP,0000,0000,0000,,{\i1}Just look at that intimidation factor!{\i0}
+Dialogue: 0,0:11:10.98,0:11:12.56,Default,NTP,0000,0000,0000,,{\i1}The air just got heavy{\i0}
+Dialogue: 0,0:11:13.11,0:11:14.32,Default,NTP,0000,0000,0000,,{\i1}and denser!{\i0}
+Dialogue: 0,0:11:16.94,0:11:17.90,Default,NTP,0000,0000,0000,,{\i1}Inosuke,{\i0}
+Dialogue: 0,0:11:18.32,0:11:19.24,Default,NTP,0000,0000,0000,,{\i1}I'm sorry!{\i0}
+Dialogue: 0,0:11:19.86,0:11:21.16,Default,NTP,0000,0000,0000,,{\i1}Hang in there, okay?{\i0}
+Dialogue: 0,0:11:21.41,0:11:22.66,Default,NTP,0000,0000,0000,,{\i1}Just a little longer!{\i0}
+Dialogue: 0,0:11:23.28,0:11:25.95,Default,NTP,0000,0000,0000,,{\i1}I'll be there\Nas soon as I defeat this demon!{\i0}
+Dialogue: 0,0:11:27.45,0:11:30.25,Default,NTP,0000,0000,0000,,{\i1}I'll come save you no matter what!{\i0}
+Dialogue: 0,0:11:31.29,0:11:32.21,Default,NTP,0000,0000,0000,,Hey, you...
+Dialogue: 0,0:11:32.54,0:11:33.96,Default,NTP,0000,0000,0000,,What you said just now...
+Dialogue: 0,0:11:35.09,0:11:36.96,Default,NTP,0000,0000,0000,,{\an8}Let's hear you say it again.
+Dialogue: 0,0:11:38.46,0:11:39.42,Default,NTP,0000,0000,0000,,Come on.
+Dialogue: 0,0:11:40.05,0:11:41.68,Default,NTP,0000,0000,0000,,Say it, will you?
+Dialogue: 0,0:11:41.93,0:11:42.68,Default,NTP,0000,0000,0000,,{\an8}Sure!
+Dialogue: 0,0:11:43.01,0:11:44.68,Default,NTP,0000,0000,0000,,{\an8}I'll repeat it as many times as you want!
+Dialogue: 0,0:11:45.10,0:11:47.26,Default,NTP,0000,0000,0000,,{\an8}Your bond is forged!
+Dialogue: 0,0:12:13.04,0:12:15.42,Default,NTP,0000,0000,0000,,{\i1}O-Oh, crap!{\i0}
+Dialogue: 0,0:12:16.04,0:12:20.05,Default,NTP,0000,0000,0000,,DEMON SLAYER:\NKIMETSU NO YAIBA
+Dialogue: 0,0:12:20.05,0:12:24.05,Default,NTP,0000,0000,0000,,DEMON SLAYER:\NKIMETSU NO YAIBA
+Dialogue: 0,0:12:30.64,0:12:31.64,Default,NTP,0000,0000,0000,,{\i1}Dammit!{\i0}
+Dialogue: 0,0:12:31.89,0:12:34.10,Default,NTP,0000,0000,0000,,{\i1}Hiding myself in a place like this...{\i0}
+Dialogue: 0,0:12:34.35,0:12:35.65,Default,NTP,0000,0000,0000,,{\i1}How pathetic is that?{\i0}
+Dialogue: 0,0:12:36.36,0:12:38.73,Default,NTP,0000,0000,0000,,{\an8}{\i1}Still, I gotta come up with a way.{\i0}
+Dialogue: 0,0:12:39.32,0:12:42.61,Default,NTP,0000,0000,0000,,{\an8}{\i1}How do you slash someone\Nwho's sword-proof?{\i0}
+Dialogue: 0,0:12:43.49,0:12:44.49,Default,NTP,0000,0000,0000,,{\an8}{\i1}What should I do?{\i0}
+Dialogue: 0,0:12:44.74,0:12:46.20,Default,NTP,0000,0000,0000,,{\an8}{\i1}What should I do?{\i0}
+Dialogue: 0,0:12:46.45,0:12:48.83,Default,NTP,0000,0000,0000,,{\an8}{\i1}Just how do I slash it?{\i0}
+Dialogue: 0,0:12:49.33,0:12:52.50,Default,NTP,0000,0000,0000,,{\an8}{\i1}Think! Think! Think! Think—{\i0}
+Dialogue: 0,0:12:53.75,0:12:55.04,Default,NTP,0000,0000,0000,,Whoa!
+Dialogue: 0,0:12:57.63,0:13:00.00,Default,NTP,0000,0000,0000,,{\an8}This is bad! This is really bad!
+Dialogue: 0,0:13:00.84,0:13:01.84,Default,NTP,0000,0000,0000,,{\an8}Until...
+Dialogue: 0,0:13:02.09,0:13:03.97,Default,NTP,0000,0000,0000,,{\an8}Until he gets back,
+Dialogue: 0,0:13:04.26,0:13:05.76,Default,NTP,0000,0000,0000,,{\an8}I gotta somehow...
+Dialogue: 0,0:13:08.60,0:13:11.02,Default,NTP,0000,0000,0000,,What the hell kind of attitude is that?
+Dialogue: 0,0:13:13.10,0:13:15.27,Default,NTP,0000,0000,0000,,Don't mess around, dammit!
+Dialogue: 0,0:13:22.19,0:13:23.94,Default,NTP,0000,0000,0000,,Curse you!
+Dialogue: 0,0:13:25.11,0:13:29.07,Default,NTP,0000,0000,0000,,Looks like I got infected\Nby Tontaro's germs!
+Dialogue: 0,0:13:29.28,0:13:31.04,Default,NTP,0000,0000,0000,,Messing around like that...
+Dialogue: 0,0:13:31.29,0:13:33.25,Default,NTP,0000,0000,0000,,That was way too close a call!
+Dialogue: 0,0:13:33.54,0:13:38.25,Default,NTP,0000,0000,0000,,Using my head? That's so not me!
+Dialogue: 0,0:13:42.71,0:13:43.67,Default,NTP,0000,0000,0000,,All right!
+Dialogue: 0,0:13:43.88,0:13:45.51,Default,NTP,0000,0000,0000,,Slashed you!
+Dialogue: 0,0:13:47.30,0:13:49.30,Default,NTP,0000,0000,0000,,{\an8}It's really simple.
+Dialogue: 0,0:13:49.55,0:13:51.35,Default,NTP,0000,0000,0000,,{\an8}If you can't slash something\Nwith one sword,
+Dialogue: 0,0:13:51.35,0:13:54.77,Default,NTP,0000,0000,0000,,{\an8}all you gotta do is pound it\Nwith another sword!
+Dialogue: 0,0:13:55.02,0:13:56.35,Default,NTP,0000,0000,0000,,{\an8}I mean, look!
+Dialogue: 0,0:13:56.64,0:13:59.23,Default,NTP,0000,0000,0000,,I have two swords!
+Dialogue: 0,0:14:01.61,0:14:03.44,Default,NTP,0000,0000,0000,,I'm the almighty!
+Dialogue: 0,0:14:09.03,0:14:10.95,Default,NTP,0000,0000,0000,,Are you running away on me?
+Dialogue: 0,0:14:11.37,0:14:12.20,Default,NTP,0000,0000,0000,,Hey you!
+Dialogue: 0,0:14:12.45,0:14:14.20,Default,NTP,0000,0000,0000,,Come back here, dammit!
+Dialogue: 0,0:14:27.68,0:14:28.93,Default,NTP,0000,0000,0000,,I just want to let you know...
+Dialogue: 0,0:14:29.39,0:14:32.14,Default,NTP,0000,0000,0000,,I won't kill you in one blow.
+Dialogue: 0,0:14:32.89,0:14:36.10,Default,NTP,0000,0000,0000,,After ripping you to shreds,\NI'll carve you up.
+Dialogue: 0,0:14:40.40,0:14:41.36,Default,NTP,0000,0000,0000,,But...
+Dialogue: 0,0:14:41.90,0:14:44.40,Default,NTP,0000,0000,0000,,If you take back\Nwhat you said just now,
+Dialogue: 0,0:14:44.65,0:14:46.99,Default,NTP,0000,0000,0000,,I'll do you a favor\Nand kill you at once.
+Dialogue: 0,0:14:47.28,0:14:48.57,Default,NTP,0000,0000,0000,,I won't take it back!
+Dialogue: 0,0:14:48.95,0:14:51.07,Default,NTP,0000,0000,0000,,What I said was the truth!
+Dialogue: 0,0:14:51.78,0:14:53.16,Default,NTP,0000,0000,0000,,You know who's not making any sense?
+Dialogue: 0,0:14:53.41,0:14:54.49,Default,NTP,0000,0000,0000,,It's you!
+Dialogue: 0,0:15:01.79,0:15:04.13,Default,NTP,0000,0000,0000,,You're the one who's mistaken!
+Dialogue: 0,0:15:20.98,0:15:25.27,Default,NTP,0000,0000,0000,,Damn! That bastard...\NWhere the hell did he go, dammit?
+Dialogue: 0,0:15:29.36,0:15:30.65,Default,NTP,0000,0000,0000,,I'm telling ya,
+Dialogue: 0,0:15:30.99,0:15:32.36,Default,NTP,0000,0000,0000,,this doesn't hurt!
+Dialogue: 0,0:15:32.82,0:15:35.87,Default,NTP,0000,0000,0000,,What doesn't hurt doesn't hurt!
+Dialogue: 0,0:15:36.16,0:15:37.33,Default,NTP,0000,0000,0000,,Now that it's come to this,
+Dialogue: 0,0:15:37.83,0:15:39.96,Default,NTP,0000,0000,0000,,I'll sniff it out for sure!
+Dialogue: 0,0:15:52.05,0:15:53.51,Default,NTP,0000,0000,0000,,So, there you are!
+Dialogue: 0,0:15:54.14,0:15:57.60,Default,NTP,0000,0000,0000,,You idiot piece of crap!\NHow high did you climb up?
+Dialogue: 0,0:15:58.68,0:15:59.93,Default,NTP,0000,0000,0000,,Damn you!
+Dialogue: 0,0:16:00.18,0:16:03.69,Default,NTP,0000,0000,0000,,So, you're plotting to make me\Nuse my head again, huh?
+Dialogue: 0,0:16:03.94,0:16:05.40,Default,NTP,0000,0000,0000,,In your dreams!
+Dialogue: 0,0:16:09.69,0:16:10.53,Default,NTP,0000,0000,0000,,What the...
+Dialogue: 0,0:16:11.40,0:16:12.86,Default,NTP,0000,0000,0000,,Oh, I get it!
+Dialogue: 0,0:16:13.28,0:16:16.74,Default,NTP,0000,0000,0000,,He's trembling with fear and dread\Nat the sight of me, huh?
+Dialogue: 0,0:16:18.70,0:16:20.50,Default,NTP,0000,0000,0000,,Well, it's a little too late for that!
+Dialogue: 0,0:16:26.17,0:16:27.00,Default,NTP,0000,0000,0000,,What the...
+Dialogue: 0,0:16:27.38,0:16:28.34,Default,NTP,0000,0000,0000,,Now what?
+Dialogue: 0,0:16:33.51,0:16:35.85,Default,NTP,0000,0000,0000,,D-Did it just shed its skin?
+Dialogue: 0,0:16:47.06,0:16:48.02,Default,NTP,0000,0000,0000,,{\i1}Jeez.{\i0}
+Dialogue: 0,0:16:48.40,0:16:51.90,Default,NTP,0000,0000,0000,,{\i1}Come on, that's bulking up way too much!{\i0}
+Dialogue: 0,0:16:52.24,0:16:53.90,Default,NTP,0000,0000,0000,,{\i1}This is looking really bad for me!{\i0}
+Dialogue: 0,0:16:54.53,0:16:58.58,Default,NTP,0000,0000,0000,,{\i1}I've never sensed this much force\Nfrom an opponent before!{\i0}
+Dialogue: 0,0:16:59.08,0:17:00.91,Default,NTP,0000,0000,0000,,{\i1}I'll get crushed just by his force!{\i0}
+Dialogue: 0,0:17:06.79,0:17:07.71,Default,NTP,0000,0000,0000,,{\i1}It's no good.{\i0}
+Dialogue: 0,0:17:08.42,0:17:09.67,Default,NTP,0000,0000,0000,,{\i1}I can't win.{\i0}
+Dialogue: 0,0:17:17.43,0:17:18.76,Default,NTP,0000,0000,0000,,{\i1}I'm gonna die.{\i0}
+Dialogue: 0,0:17:20.68,0:17:22.02,Default,NTP,0000,0000,0000,,{\i1}I'm gonna be killed.{\i0}
+Dialogue: 0,0:17:23.18,0:17:24.23,Default,NTP,0000,0000,0000,,Don't die!
+Dialogue: 0,0:17:25.77,0:17:28.31,Default,NTP,0000,0000,0000,,Don't die until I get back!
+Dialogue: 0,0:17:29.65,0:17:35.28,Default,NTP,0000,0000,0000,,{\i1}Always live your lives with great pride.{\i0}
+Dialogue: 0,0:17:35.53,0:17:37.78,Default,NTP,0000,0000,0000,,{\i1}I wish you luck in battle!{\i0}
+Dialogue: 0,0:17:40.41,0:17:41.45,Default,NTP,0000,0000,0000,,I'm not gonna lose!
+Dialogue: 0,0:17:42.83,0:17:44.79,Default,NTP,0000,0000,0000,,{\an8}No way am I gonna lose!
+Dialogue: 0,0:17:45.83,0:17:49.38,Default,NTP,0000,0000,0000,,I'm Inosuke Hashibira\Nof the Demon Slayer Corps!
+Dialogue: 0,0:17:49.63,0:17:52.25,Default,NTP,0000,0000,0000,,Just bring it on, you dirtbag!
+Dialogue: 0,0:17:54.17,0:17:55.09,Default,NTP,0000,0000,0000,,{\i1}So fast!{\i0}
+Dialogue: 0,0:17:55.42,0:17:56.51,Default,NTP,0000,0000,0000,,{\i1}I can't see it!{\i0}
+Dialogue: 0,0:18:03.31,0:18:05.14,Default,NTP,0000,0000,0000,,{\an8}{\i1}Beast Breathing...{\i0}
+Dialogue: 0,0:18:05.77,0:18:08.85,Default,NTP,0000,0000,0000,,{\an8}{\i1}Fang Three, Devour!{\i0}
+Dialogue: 0,0:18:11.32,0:18:12.44,Default,NTP,0000,0000,0000,,It snapped!
+Dialogue: 0,0:18:17.57,0:18:18.78,Default,NTP,0000,0000,0000,,{\i1}Oh, crap!{\i0}
+Dialogue: 0,0:18:19.20,0:18:22.03,Default,NTP,0000,0000,0000,,{\i1}I failed to go on the defensive\Nwith my breath attack!{\i0}
+Dialogue: 0,0:18:23.49,0:18:28.46,Default,NTP,0000,0000,0000,,Don't come near my family! Stay away!
+Dialogue: 0,0:18:28.75,0:18:30.79,Default,NTP,0000,0000,0000,,I'm not gonna die!
+Dialogue: 0,0:18:31.13,0:18:33.96,Default,NTP,0000,0000,0000,,{\i1}Beast Breathing Fang One...{\i0}
+Dialogue: 0,0:18:35.05,0:18:36.05,Default,NTP,0000,0000,0000,,{\i1}Take this!{\i0}
+Dialogue: 0,0:18:36.30,0:18:37.93,Default,NTP,0000,0000,0000,,{\i1}Pierce!{\i0}
+Dialogue: 0,0:18:40.01,0:18:41.55,Default,NTP,0000,0000,0000,,{\i1}They're in!{\i0}
+Dialogue: 0,0:18:41.80,0:18:43.31,Default,NTP,0000,0000,0000,,{\i1}They're in, but...{\i0}
+Dialogue: 0,0:18:43.81,0:18:45.35,Default,NTP,0000,0000,0000,,{\i1}what the hell?{\i0}
+Dialogue: 0,0:18:45.60,0:18:47.73,Default,NTP,0000,0000,0000,,{\i1}This thing isn't even flinching!{\i0}
+Dialogue: 0,0:19:08.00,0:19:09.25,Default,NTP,0000,0000,0000,,{\i1}I'm sorry.{\i0}
+Dialogue: 0,0:19:11.92,0:19:14.63,Default,NTP,0000,0000,0000,,{\i1}I'm sorry, Inosuke.{\i0}
+Dialogue: 0,0:19:27.06,0:19:29.02,Default,NTP,0000,0000,0000,,{\i1}I want at least you to survive,{\i0}
+Dialogue: 0,0:19:30.02,0:19:31.15,Default,NTP,0000,0000,0000,,{\i1}Inosuke.{\i0}
+Dialogue: 0,0:19:38.03,0:19:41.74,Default,NTP,0000,0000,0000,,{\i1}Wh-Who are you?{\i0}
+Dialogue: 0,0:19:52.17,0:19:53.50,Default,NTP,0000,0000,0000,,{\i1}Wh-What was that?{\i0}
+Dialogue: 0,0:19:55.59,0:19:56.84,Default,NTP,0000,0000,0000,,{\i1}Did he slash it?{\i0}
+Dialogue: 0,0:19:57.25,0:19:58.30,Default,NTP,0000,0000,0000,,{\i1}That guy?{\i0}
+Dialogue: 0,0:19:59.34,0:20:01.59,Default,NTP,0000,0000,0000,,{\i1}Wh-Who is that?{\i0}
+Dialogue: 0,0:20:02.05,0:20:03.09,Default,NTP,0000,0000,0000,,{\i1}Who on earth...{\i0}
+Dialogue: 0,0:20:14.36,0:20:15.11,Default,NTP,0000,0000,0000,,{\i1}That's fast!{\i0}
+Dialogue: 0,0:20:17.36,0:20:18.61,Default,NTP,0000,0000,0000,,{\i1}Water Breathing,{\i0}
+Dialogue: 0,0:20:18.94,0:20:19.99,Default,NTP,0000,0000,0000,,{\i1}Fourth Form...{\i0}
+Dialogue: 0,0:20:20.49,0:20:21.36,Default,NTP,0000,0000,0000,,{\i1}Striking Tide!{\i0}
+Dialogue: 0,0:20:30.04,0:20:32.58,Default,NTP,0000,0000,0000,,{\i1}H-Holy crap!{\i0}
+Dialogue: 0,0:20:37.59,0:20:40.59,Default,NTP,0000,0000,0000,,{\i1}I-I've never seen anyone...{\i0}
+Dialogue: 0,0:20:41.09,0:20:43.63,Default,NTP,0000,0000,0000,,{\i1}as incredible as this guy!{\i0}
+Dialogue: 0,0:20:52.06,0:20:52.89,Default,NTP,0000,0000,0000,,{\i1}Got it!{\i0}
+Dialogue: 0,0:20:53.44,0:20:55.15,Default,NTP,0000,0000,0000,,{\i1}The acrid odor's starting to fade,{\i0}
+Dialogue: 0,0:20:56.11,0:20:57.94,Default,NTP,0000,0000,0000,,{\i1}so now I can detect\Nthe scent of the threads!{\i0}
+Dialogue: 0,0:20:58.73,0:21:00.40,Default,NTP,0000,0000,0000,,{\i1}I can take him on now!{\i0}
+Dialogue: 0,0:21:02.82,0:21:05.24,Default,NTP,0000,0000,0000,,{\i1}He's smarter than I thought.{\i0}
+Dialogue: 0,0:21:06.07,0:21:07.87,Default,NTP,0000,0000,0000,,{\i1}He doesn't flinch back in fear.{\i0}
+Dialogue: 0,0:21:08.87,0:21:11.58,Default,NTP,0000,0000,0000,,{\an8}{\i1}Well, not that it matters anyway.{\i0}
+Dialogue: 0,0:21:19.25,0:21:20.46,Default,NTP,0000,0000,0000,,{\i1}Water Breathing,{\i0}
+Dialogue: 0,0:21:21.01,0:21:22.21,Default,NTP,0000,0000,0000,,{\i1}First Form...{\i0}
+Dialogue: 0,0:21:22.97,0:21:24.88,Default,NTP,0000,0000,0000,,{\i1}Water Surface Slash!{\i0}
+Dialogue: 0,0:23:00.94,0:23:22.63,Default,NTP,0000,0000,0000,,{\an9}PREVIEW
+Dialogue: 0,0:23:00.94,0:23:22.63,Default,NTP,0000,0000,0000,,{\an7}RUSTLE RUSTLE
+Dialogue: 0,0:23:02.27,0:23:03.27,Default,NTP,0000,0000,0000,,Hey!
+Dialogue: 0,0:23:03.52,0:23:07.61,Default,NTP,0000,0000,0000,,Wow! Damned if you didn't take out\Nthat demon in a flash! Who are you?
+Dialogue: 0,0:23:08.45,0:23:11.49,Default,NTP,0000,0000,0000,,I saw you using the same technique\Nas Monjiro! You his friend?
+Dialogue: 0,0:23:12.20,0:23:14.87,Default,NTP,0000,0000,0000,,What, you don't see me here?\NLook at me, dammit!
+Dialogue: 0,0:23:15.12,0:23:18.33,Default,NTP,0000,0000,0000,,Hey! Hey! Hey! Hey!\NWhat do you say to that?
+Dialogue: 0,0:23:19.42,0:23:20.08,Default,NTP,0000,0000,0000,,Hey!
+Dialogue: 0,0:23:22.92,0:23:25.05,Default,NTP,0000,0000,0000,,Okay, then, I'll let you in on a secret!
+Dialogue: 0,0:23:25.30,0:23:27.80,Default,NTP,0000,0000,0000,,I hear that Tanjiro's favorite\Nrice ball flavor is plum seaweed,
+Dialogue: 0,0:23:27.80,0:23:30.55,Default,NTP,0000,0000,0000,,and Zenitsu really digs salmon!
+Dialogue: 0,0:23:31.97,0:23:34.64,Default,NTP,0000,0000,0000,,Next, Episode 19, "Hinokami."
+Dialogue: 0,0:23:35.01,0:23:36.60,Default,NTP,0000,0000,0000,,Hey, so you can talk!
+Dialogue: 0,0:23:37.02,0:23:40.06,Default,NTP,0000,0000,0000,,TO BE CONTINUED

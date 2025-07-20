@@ -1,0 +1,333 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: OS,Open Sans Semibold,33,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,1,0,0,0,100,100,0,0,1,2,1,8,1,1,20,0
+Style: Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: On Top,Open Sans Semibold,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,1,0,0,0,100,100,0,0,1,2,1,8,27,27,29,0
+Style: DefaultLow,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultMed,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultHigh,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultLTop,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,7,0,0,28,0
+Style: DefaultRHigh,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,1,0,0,28,0
+Style: DefaultRaisedL,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultRaisedR,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultTopR,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,9,0,0,28,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:05.23,0:00:06.98,Default,NTP,0000,0000,0000,,Come on out, demon!
+Dialogue: 0,0:00:07.73,0:00:09.48,Default,NTP,0000,0000,0000,,{\an8}Stop it!
+Dialogue: 0,0:00:09.86,0:00:12.86,Default,NTP,0000,0000,0000,,Look, it's the human blood\Nyou love so much!
+Dialogue: 0,0:00:16.87,0:00:19.87,Default,NTP,0000,0000,0000,,{\an1}KILL
+Dialogue: 0,0:01:54.88,0:02:00.01,Default,NTP,0000,0000,0000,,EPISODE 23:\NHASHIRA MEETING
+Dialogue: 0,0:02:09.35,0:02:12.44,Default,NTP,0000,0000,0000,,What's the matter, demon? Come on!
+Dialogue: 0,0:02:12.77,0:02:14.19,Default,NTP,0000,0000,0000,,You know you want it.
+Dialogue: 0,0:02:22.24,0:02:25.37,Default,NTP,0000,0000,0000,,Iguro, you're digging into him too hard.
+Dialogue: 0,0:02:25.62,0:02:27.45,Default,NTP,0000,0000,0000,,Ease up a bit please.
+Dialogue: 0,0:02:28.00,0:02:31.17,Default,NTP,0000,0000,0000,,{\an8}I'm only holding him down\Nbecause he's trying to move.
+Dialogue: 0,0:02:33.38,0:02:34.59,Default,NTP,0000,0000,0000,,Kamado,
+Dialogue: 0,0:02:34.88,0:02:38.47,Default,NTP,0000,0000,0000,,if you use any breathing techniques\Nwhile your lungs are being squeezed,
+Dialogue: 0,0:02:38.47,0:02:40.26,Default,NTP,0000,0000,0000,,your veins will burst.
+Dialogue: 0,0:02:40.26,0:02:41.64,Default,NTP,0000,0000,0000,,His veins will burst!
+Dialogue: 0,0:02:41.93,0:02:44.18,Default,NTP,0000,0000,0000,,I like it! Sounds flamboyant!
+Dialogue: 0,0:02:44.56,0:02:46.56,Default,NTP,0000,0000,0000,,Come on! Start bursting!
+Dialogue: 0,0:02:49.64,0:02:51.35,Default,NTP,0000,0000,0000,,Poor soul...
+Dialogue: 0,0:02:51.98,0:02:54.65,Default,NTP,0000,0000,0000,,Such a weak, pathetic child.
+Dialogue: 0,0:02:55.19,0:02:57.65,Default,NTP,0000,0000,0000,,{\an8}Namu Amida Butsu.
+Dialogue: 0,0:03:11.12,0:03:12.42,Default,NTP,0000,0000,0000,,Kamado?
+Dialogue: 0,0:03:18.51,0:03:20.22,Default,NTP,0000,0000,0000,,{\an9}DESTROY
+Dialogue: 0,0:03:22.68,0:03:23.80,Default,NTP,0000,0000,0000,,Nezuko!
+Dialogue: 0,0:03:35.86,0:03:36.94,Default,NTP,0000,0000,0000,,She's my sister!
+Dialogue: 0,0:03:37.19,0:03:38.90,Default,NTP,0000,0000,0000,,She's my younger sister!
+Dialogue: 0,0:03:39.19,0:03:40.82,Default,NTP,0000,0000,0000,,{\an8}Nezuko is different!
+Dialogue: 0,0:03:41.28,0:03:43.91,Default,NTP,0000,0000,0000,,{\an8}Though I don't know how it happened!
+Dialogue: 0,0:04:07.68,0:04:10.60,Default,NTP,0000,0000,0000,,{\i1}All humans are your family.{\i0}
+Dialogue: 0,0:04:18.65,0:04:20.73,Default,NTP,0000,0000,0000,,{\i1}Protect humans.{\i0}
+Dialogue: 0,0:04:28.87,0:04:33.21,Default,NTP,0000,0000,0000,,{\i1}Humans are to be protected and saved.{\i0}
+Dialogue: 0,0:04:33.46,0:04:34.75,Default,NTP,0000,0000,0000,,{\i1}Never hurt them.{\i0}
+Dialogue: 0,0:04:35.92,0:04:38.09,Default,NTP,0000,0000,0000,,{\i1}I will never hurt them.{\i0}
+Dialogue: 0,0:05:02.74,0:05:04.24,Default,NTP,0000,0000,0000,,What just happened?
+Dialogue: 0,0:05:04.99,0:05:07.78,Default,NTP,0000,0000,0000,,The demon girl turned her back in disgust.
+Dialogue: 0,0:05:08.03,0:05:10.83,Default,NTP,0000,0000,0000,,Although she'd been stabbed\Nthree times by Shinazugawa,
+Dialogue: 0,0:05:11.08,0:05:13.66,Default,NTP,0000,0000,0000,,and despite his flaunting\Nof his bloody arm in her face,
+Dialogue: 0,0:05:13.66,0:05:16.37,Default,NTP,0000,0000,0000,,she restrained herself and did not bite.
+Dialogue: 0,0:05:19.59,0:05:24.51,Default,NTP,0000,0000,0000,,So now, it's been proven\Nthat Nezuko won't attack humans, right?
+Dialogue: 0,0:05:29.39,0:05:31.60,Default,NTP,0000,0000,0000,,What do you think you're doing, Tomioka?
+Dialogue: 0,0:05:32.85,0:05:33.89,Default,NTP,0000,0000,0000,,Tanjiro...
+Dialogue: 0,0:05:35.77,0:05:40.52,Default,NTP,0000,0000,0000,,I'm sure that even after this,\Nthere are some who can't accept Nezuko.
+Dialogue: 0,0:05:41.27,0:05:44.53,Default,NTP,0000,0000,0000,,You must prove it to them starting now.
+Dialogue: 0,0:05:45.61,0:05:49.07,Default,NTP,0000,0000,0000,,That you and Nezuko can fight\Nas Demon Slayers.
+Dialogue: 0,0:05:49.45,0:05:51.37,Default,NTP,0000,0000,0000,,That you can be useful.
+Dialogue: 0,0:05:54.95,0:05:57.16,Default,NTP,0000,0000,0000,,{\i1}What is this feeling?{\i0}
+Dialogue: 0,0:05:57.79,0:05:59.29,Default,NTP,0000,0000,0000,,{\i1}It's like I'm floating.{\i0}
+Dialogue: 0,0:06:00.00,0:06:01.17,Default,NTP,0000,0000,0000,,{\an8}{\i1}His voice...{\i0}
+Dialogue: 0,0:06:01.54,0:06:05.97,Default,NTP,0000,0000,0000,,{\an8}{\i1}Is it because of this man's voice\Nthat I'm feeling light in the head?{\i0}
+Dialogue: 0,0:06:07.22,0:06:09.84,Default,NTP,0000,0000,0000,,Go out and defeat a Twelve Kizuki.
+Dialogue: 0,0:06:10.22,0:06:12.68,Default,NTP,0000,0000,0000,,Do that, and you'll be accepted by all.
+Dialogue: 0,0:06:13.26,0:06:16.23,Default,NTP,0000,0000,0000,,And it will give more weight to your words.
+Dialogue: 0,0:06:21.23,0:06:22.31,Default,NTP,0000,0000,0000,,I...
+Dialogue: 0,0:06:23.23,0:06:26.74,Default,NTP,0000,0000,0000,,Nezuko and I will defeat Muzan Kibutsuji!
+Dialogue: 0,0:06:27.36,0:06:29.28,Default,NTP,0000,0000,0000,,Nezuko and I will do it for sure!
+Dialogue: 0,0:06:29.61,0:06:32.62,Default,NTP,0000,0000,0000,,Strike with the sword\Nthat will stop the chain of grief!
+Dialogue: 0,0:06:34.70,0:06:37.41,Default,NTP,0000,0000,0000,,As you're ill-equipped to do so\Nright now, Tanjiro,
+Dialogue: 0,0:06:37.41,0:06:40.37,Default,NTP,0000,0000,0000,,let's start by defeating\Na Twelve Kizuki, all right?
+Dialogue: 0,0:06:41.88,0:06:42.96,Default,NTP,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:06:44.25,0:06:46.76,Default,NTP,0000,0000,0000,,{\i1}You mustn't laugh!\NYou mustn't, you mustn't, you mustn't!{\i0}
+Dialogue: 0,0:06:47.46,0:06:49.43,Default,NTP,0000,0000,0000,,It goes without saying
+Dialogue: 0,0:06:49.68,0:06:52.85,Default,NTP,0000,0000,0000,,that the Hashiras of the Demon Slayer Corps\Nhave phenomenal skills.
+Dialogue: 0,0:06:53.39,0:06:57.98,Default,NTP,0000,0000,0000,,After training themselves to death,\Nthey have defied death,
+Dialogue: 0,0:06:58.23,0:07:00.94,Default,NTP,0000,0000,0000,,and they've also defeated Twelve Kizukis.
+Dialogue: 0,0:07:01.56,0:07:03.06,Default,NTP,0000,0000,0000,,A good attitude to have!
+Dialogue: 0,0:07:03.69,0:07:08.11,Default,NTP,0000,0000,0000,,That is why Hashiras receive\Nrespect and preferential treatment.
+Dialogue: 0,0:07:08.36,0:07:12.07,Default,NTP,0000,0000,0000,,So, Tanjiro, mind your manners\Nwhen you speak.
+Dialogue: 0,0:07:12.78,0:07:14.45,Default,NTP,0000,0000,0000,,Y-Yes, sir!
+Dialogue: 0,0:07:16.12,0:07:18.37,Default,NTP,0000,0000,0000,,One more thing. Sanemi...
+Dialogue: 0,0:07:18.75,0:07:20.12,Default,NTP,0000,0000,0000,,Obanai...
+Dialogue: 0,0:07:20.66,0:07:23.71,Default,NTP,0000,0000,0000,,Don't torment the younger ones too much.
+Dialogue: 0,0:07:24.59,0:07:25.75,Default,NTP,0000,0000,0000,,As you wish.
+Dialogue: 0,0:07:29.30,0:07:30.34,Default,NTP,0000,0000,0000,,As you wish.
+Dialogue: 0,0:07:31.55,0:07:34.26,Default,NTP,0000,0000,0000,,Tanjiro, we have concluded\Nour business with you.
+Dialogue: 0,0:07:34.80,0:07:36.51,Default,NTP,0000,0000,0000,,You may step back.
+Dialogue: 0,0:07:38.52,0:07:43.27,Default,NTP,0000,0000,0000,,In that case, allow me\Nto take Kamado into my house.
+Dialogue: 0,0:07:47.78,0:07:50.32,Default,NTP,0000,0000,0000,,All right, then!\NTake them away please!
+Dialogue: 0,0:07:55.53,0:07:57.91,Default,NTP,0000,0000,0000,,Pardon me for cutting in front of you!
+Dialogue: 0,0:07:56.74,0:07:57.91,Default,NTP,0000,0000,0000,,{\an9}KAKUSHI
+Dialogue: 0,0:08:10.67,0:08:13.13,Default,NTP,0000,0000,0000,,Now then, let us begin the Hashira Meet—
+Dialogue: 0,0:08:13.13,0:08:16.47,Default,NTP,0000,0000,0000,,Hold on a second!
+Dialogue: 0,0:08:14.97,0:08:16.47,Default,NTP,0000,0000,0000,,{\an8}Come back here!
+Dialogue: 0,0:08:19.52,0:08:23.56,Default,NTP,0000,0000,0000,,Please allow me to head-butt\Nthat man covered in scars!
+Dialogue: 0,0:08:23.89,0:08:24.90,Default,NTP,0000,0000,0000,,I gotta—
+Dialogue: 0,0:08:24.90,0:08:26.61,Default,NTP,0000,0000,0000,,Shut up! Keep your mouth shut!
+Dialogue: 0,0:08:26.86,0:08:29.82,Default,NTP,0000,0000,0000,,I gotta head-butt him as many times\Nas he stabbed Nezuko!
+Dialogue: 0,0:08:30.19,0:08:33.20,Default,NTP,0000,0000,0000,,Head-butting isn't a violation\Nof the Corps rules, right?
+Dialogue: 0,0:08:33.20,0:08:35.32,Default,NTP,0000,0000,0000,,Shut up! Settle down now!
+Dialogue: 0,0:08:35.87,0:08:38.08,Default,NTP,0000,0000,0000,,- Let go of me!\N- Cut it out!
+Dialogue: 0,0:08:45.33,0:08:49.09,Default,NTP,0000,0000,0000,,You're not allowed to interrupt the Master.
+Dialogue: 0,0:08:49.63,0:08:52.76,Default,NTP,0000,0000,0000,,- We beg your pardon!\N- We beg your pardon, Master!
+Dialogue: 0,0:08:52.76,0:08:54.59,Default,NTP,0000,0000,0000,,- Master Tokito!\N- We beg your pardon!
+Dialogue: 0,0:08:54.59,0:08:56.22,Default,NTP,0000,0000,0000,,We beg your pardon!
+Dialogue: 0,0:08:56.22,0:08:59.56,Default,NTP,0000,0000,0000,,We assure you that this boy\Nwill be severely reprimanded, so—
+Dialogue: 0,0:08:56.51,0:08:58.05,Default,NTP,0000,0000,0000,,{\an8}{\i1}Muichiro!{\i0}
+Dialogue: 0,0:08:58.05,0:08:59.81,Default,NTP,0000,0000,0000,,{\an8}{\i1}What a fine boy!{\i0}
+Dialogue: 0,0:08:59.56,0:09:01.60,Default,NTP,0000,0000,0000,,So please! Please!
+Dialogue: 0,0:08:59.81,0:09:01.60,Default,NTP,0000,0000,0000,,{\an8}{\i1}So cool!{\i0}
+Dialogue: 0,0:09:02.02,0:09:03.52,Default,NTP,0000,0000,0000,,Just get out of our sight.
+Dialogue: 0,0:09:03.52,0:09:04.98,Default,NTP,0000,0000,0000,,- Yes, sir!\N- Yes, sir!
+Dialogue: 0,0:09:08.61,0:09:09.57,Default,NTP,0000,0000,0000,,Tanjiro...
+Dialogue: 0,0:09:10.61,0:09:12.99,Default,NTP,0000,0000,0000,,{\an8}Give Miss Tamayo my regards.
+Dialogue: 0,0:09:17.41,0:09:18.45,Default,NTP,0000,0000,0000,,Hold up a second!
+Dialogue: 0,0:09:18.70,0:09:20.87,Default,NTP,0000,0000,0000,,I just heard him\Nmention Miss Tamayo's name!
+Dialogue: 0,0:09:22.08,0:09:23.87,Default,NTP,0000,0000,0000,,Don't you say another word!
+Dialogue: 0,0:09:24.12,0:09:27.29,Default,NTP,0000,0000,0000,,- We got yelled at because of you!\N- I thought I'd pee my pants!
+Dialogue: 0,0:09:28.88,0:09:30.92,Default,NTP,0000,0000,0000,,You don't know\Nhow terrifying the Hashiras are!
+Dialogue: 0,0:09:30.92,0:09:32.51,Default,NTP,0000,0000,0000,,Try to read the room! Read it!
+Dialogue: 0,0:09:32.80,0:09:36.13,Default,NTP,0000,0000,0000,,- I'll never forgive you as long as I live!\N- I'll never forgive you!
+Dialogue: 0,0:09:36.51,0:09:39.39,Default,NTP,0000,0000,0000,,- Apologize!\N- Apologize! Apologize!
+Dialogue: 0,0:09:40.68,0:09:41.51,Default,NTP,0000,0000,0000,,I...
+Dialogue: 0,0:09:41.76,0:09:43.18,Default,NTP,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:09:44.10,0:09:48.10,Default,NTP,0000,0000,0000,,DEMON SLAYER:\NKIMETSU NO YAIBA
+Dialogue: 0,0:09:48.10,0:09:52.11,Default,NTP,0000,0000,0000,,DEMON SLAYER:\NKIMETSU NO YAIBA
+Dialogue: 0,0:09:53.15,0:09:55.44,Default,NTP,0000,0000,0000,,Hello! Is anyone home?
+Dialogue: 0,0:09:57.40,0:09:59.49,Default,NTP,0000,0000,0000,,Hello! Is anyone home?
+Dialogue: 0,0:10:00.03,0:10:00.99,Default,NTP,0000,0000,0000,,Hello...
+Dialogue: 0,0:10:02.66,0:10:05.37,Default,NTP,0000,0000,0000,,Jeez, no one's coming to the door.
+Dialogue: 0,0:10:06.16,0:10:08.37,Default,NTP,0000,0000,0000,,Let's go check out the yard.
+Dialogue: 0,0:10:11.63,0:10:13.50,Default,NTP,0000,0000,0000,,Hey, walk on your own.
+Dialogue: 0,0:10:14.13,0:10:15.67,Default,NTP,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:10:15.92,0:10:18.80,Default,NTP,0000,0000,0000,,It's just that my whole body\Nis aching like crazy.
+Dialogue: 0,0:10:21.68,0:10:23.56,Default,NTP,0000,0000,0000,,{\an8}The headquarters was huge, too,
+Dialogue: 0,0:10:24.14,0:10:26.98,Default,NTP,0000,0000,0000,,{\an8}but this mansion's something else, huh?
+Dialogue: 0,0:10:30.06,0:10:33.90,Default,NTP,0000,0000,0000,,{\i1}Come to think of it, was this place\Ncalled the "Butterfly Mansion"?{\i0}
+Dialogue: 0,0:10:40.20,0:10:41.66,Default,NTP,0000,0000,0000,,Hey, there's someone.
+Dialogue: 0,0:10:42.70,0:10:43.91,Default,NTP,0000,0000,0000,,Someone's here.
+Dialogue: 0,0:10:45.16,0:10:47.66,Default,NTP,0000,0000,0000,,That would be, um...
+Dialogue: 0,0:10:47.91,0:10:50.33,Default,NTP,0000,0000,0000,,Oh, right! The Tsuguko...
+Dialogue: 0,0:10:50.92,0:10:52.63,Default,NTP,0000,0000,0000,,Her name is...
+Dialogue: 0,0:10:52.63,0:10:54.00,Default,NTP,0000,0000,0000,,Tsuguko?
+Dialogue: 0,0:10:54.50,0:10:56.30,Default,NTP,0000,0000,0000,,It's Master Kanao Tsuyuri.
+Dialogue: 0,0:11:03.39,0:11:06.18,Default,NTP,0000,0000,0000,,It's the girl from Final Selection.
+Dialogue: 0,0:11:07.02,0:11:12.23,Default,NTP,0000,0000,0000,,Hey, somebody's forgotten how they got\Nstomped on by Master Kanao last night.
+Dialogue: 0,0:11:13.86,0:11:17.53,Default,NTP,0000,0000,0000,,A Tsuguko is a swordsman\Ntrained by a Hashira.
+Dialogue: 0,0:11:17.82,0:11:21.03,Default,NTP,0000,0000,0000,,Only the ones with mind-blowing\Nskills and talent get chosen.
+Dialogue: 0,0:11:21.53,0:11:23.78,Default,NTP,0000,0000,0000,,She's a girl, but she's awesome!
+Dialogue: 0,0:11:26.37,0:11:28.50,Default,NTP,0000,0000,0000,,Please forgive us, Master Tsuyuri.
+Dialogue: 0,0:11:29.12,0:11:31.46,Default,NTP,0000,0000,0000,,We were ordered to come here\Nby Master Kocho.
+Dialogue: 0,0:11:32.88,0:11:35.13,Default,NTP,0000,0000,0000,,Permission to enter the mansion?
+Dialogue: 0,0:11:40.88,0:11:43.39,Default,NTP,0000,0000,0000,,Uh, do you mind?
+Dialogue: 0,0:11:48.52,0:11:50.27,Default,NTP,0000,0000,0000,,You don't mind, do you?
+Dialogue: 0,0:11:51.02,0:11:52.06,Default,NTP,0000,0000,0000,,And who are you?
+Dialogue: 0,0:11:54.02,0:11:56.11,Default,NTP,0000,0000,0000,,- Uh...\N- We were ordered by Master Kocho!
+Dialogue: 0,0:11:56.65,0:11:58.53,Default,NTP,0000,0000,0000,,Are you a Kakushi?
+Dialogue: 0,0:11:58.78,0:12:00.32,Default,NTP,0000,0000,0000,,You've brought an injured person, right?
+Dialogue: 0,0:12:01.07,0:12:02.32,Default,NTP,0000,0000,0000,,Please come this way.
+Dialogue: 0,0:12:02.82,0:12:04.32,Default,NTP,0000,0000,0000,,Uh, right!
+Dialogue: 0,0:12:04.82,0:12:05.95,Default,NTP,0000,0000,0000,,She's fast!
+Dialogue: 0,0:12:14.58,0:12:15.71,Default,NTP,0000,0000,0000,,Five times?
+Dialogue: 0,0:12:15.92,0:12:18.21,Default,NTP,0000,0000,0000,,{\an8}I gotta take this five times? A day?
+Dialogue: 0,0:12:18.46,0:12:21.05,Default,NTP,0000,0000,0000,,And I have to keep taking\Nthis medicine for three months?
+Dialogue: 0,0:12:21.05,0:12:23.55,Default,NTP,0000,0000,0000,,If I take this, I can't eat\Nanything, you know!
+Dialogue: 0,0:12:23.55,0:12:27.60,Default,NTP,0000,0000,0000,,I mean it's really bitter!\NIt's such an ordeal!
+Dialogue: 0,0:12:27.81,0:12:31.60,Default,NTP,0000,0000,0000,,So, you mean my arms and legs will heal\Njust by taking medicine? For real?
+Dialogue: 0,0:12:31.60,0:12:36.48,Default,NTP,0000,0000,0000,,Listen, are they really gonna heal?\NTell me how they're gonna get healed!
+Dialogue: 0,0:12:32.43,0:12:34.85,Default,NTP,0000,0000,0000,,{\an8}Please stop shouting, will you?
+Dialogue: 0,0:12:36.48,0:12:39.32,Default,NTP,0000,0000,0000,,Somebody explain this to me better!
+Dialogue: 0,0:12:38.36,0:12:41.07,Default,NTP,0000,0000,0000,,{\an8}So, that guy is still making\Na commotion.
+Dialogue: 0,0:12:39.32,0:12:41.53,Default,NTP,0000,0000,0000,,What's gonna happen if I forget\Nto take it even once? Hey!
+Dialogue: 0,0:12:41.53,0:12:44.11,Default,NTP,0000,0000,0000,,Listen! My arms and legs!\NWhat's gonna happen to my arms and legs? Hey!
+Dialogue: 0,0:12:44.41,0:12:48.49,Default,NTP,0000,0000,0000,,{\an8}What's gonna happen if I forget\Nto take it? Hey! Hey! Hey!
+Dialogue: 0,0:12:45.41,0:12:46.74,Default,NTP,0000,0000,0000,,Zenitsu!
+Dialogue: 0,0:12:46.74,0:12:50.24,Default,NTP,0000,0000,0000,,{\an4}MEDICINE\NFor Zenitsu Agatsuma\NTake 5 times daily\N7 days' worth\NAfter each meal
+Dialogue: 0,0:12:47.03,0:12:49.08,Default,NTP,0000,0000,0000,,Please try to be quiet!
+Dialogue: 0,0:12:50.49,0:12:52.75,Default,NTP,0000,0000,0000,,Didn't we already explain it\Nto you numerous times?
+Dialogue: 0,0:12:53.00,0:12:55.67,Default,NTP,0000,0000,0000,,If you don't stop this nonsense now,\Nwe'll tie you up!
+Dialogue: 0,0:12:58.29,0:12:59.55,Default,NTP,0000,0000,0000,,Really now!
+Dialogue: 0,0:13:02.01,0:13:03.01,Default,NTP,0000,0000,0000,,Zenitsu!
+Dialogue: 0,0:13:04.51,0:13:06.89,Default,NTP,0000,0000,0000,,{\an8}Are you okay? Did you hurt yourself?
+Dialogue: 0,0:13:07.26,0:13:09.39,Default,NTP,0000,0000,0000,,{\an8}So you did come up the mountain after all!
+Dialogue: 0,0:13:10.64,0:13:13.27,Default,NTP,0000,0000,0000,,T-Tanjiro...
+Dialogue: 0,0:13:15.10,0:13:18.81,Default,NTP,0000,0000,0000,,Tanjiro! Listen to me, will you?
+Dialogue: 0,0:13:19.06,0:13:23.90,Default,NTP,0000,0000,0000,,I got stung by this stinky spider,\Nand the poison hurt like crazy, okay?
+Dialogue: 0,0:13:24.15,0:13:30.45,Default,NTP,0000,0000,0000,,And that girl's been yelling at me\Nall this time! I hate my life!
+Dialogue: 0,0:13:28.20,0:13:29.87,Default,NTP,0000,0000,0000,,{\an8}Hey, get away from me.
+Dialogue: 0,0:13:30.20,0:13:31.74,Default,NTP,0000,0000,0000,,{\an8}I've got nothing to do with this.
+Dialogue: 0,0:13:33.12,0:13:36.25,Default,NTP,0000,0000,0000,,{\an8}Zenitsu, did you get smaller or something?
+Dialogue: 0,0:13:39.04,0:13:41.30,Default,NTP,0000,0000,0000,,I almost got turned into a spider.
+Dialogue: 0,0:13:41.55,0:13:44.51,Default,NTP,0000,0000,0000,,My arms and legs\Nare really short right now.
+Dialogue: 0,0:13:44.51,0:13:46.01,Default,NTP,0000,0000,0000,,Is that right?
+Dialogue: 0,0:13:46.51,0:13:47.68,Default,NTP,0000,0000,0000,,{\an8}Where's Inosuke?
+Dialogue: 0,0:13:47.93,0:13:49.64,Default,NTP,0000,0000,0000,,{\an8}Have you seen Murata?
+Dialogue: 0,0:13:50.18,0:13:52.56,Default,NTP,0000,0000,0000,,{\an8}I don't know about anyone named Murata,
+Dialogue: 0,0:13:52.93,0:13:55.14,Default,NTP,0000,0000,0000,,but Inosuke's right next to me.
+Dialogue: 0,0:13:56.48,0:13:57.98,Default,NTP,0000,0000,0000,,Hey, you're right!
+Dialogue: 0,0:13:58.48,0:14:01.82,Default,NTP,0000,0000,0000,,He's been here all this time!\NAnd I didn't notice!
+Dialogue: 0,0:14:05.28,0:14:07.74,Default,NTP,0000,0000,0000,,Inosuke, I'm so glad you're all right!
+Dialogue: 0,0:14:10.16,0:14:11.83,Default,NTP,0000,0000,0000,,I'm so glad you're all right!
+Dialogue: 0,0:14:12.58,0:14:15.41,Default,NTP,0000,0000,0000,,{\an8}I'm so sorry! I couldn't rescue you!
+Dialogue: 0,0:14:18.00,0:14:19.21,Default,NTP,0000,0000,0000,,It's okay.
+Dialogue: 0,0:14:19.58,0:14:21.67,Default,NTP,0000,0000,0000,,Don't worry about it.
+Dialogue: 0,0:14:22.00,0:14:24.71,Default,NTP,0000,0000,0000,,Paper! Paper!\NDo something about this!
+Dialogue: 0,0:14:22.96,0:14:24.17,Default,NTP,0000,0000,0000,,{\an8}Your voice...
+Dialogue: 0,0:14:24.71,0:14:27.09,Default,NTP,0000,0000,0000,,{\an8}Is that you, Inosuke?
+Dialogue: 0,0:14:24.71,0:14:28.26,Default,NTP,0000,0000,0000,,Wipe it! Hey! Do you hear me? Hey!
+Dialogue: 0,0:14:27.93,0:14:31.10,Default,NTP,0000,0000,0000,,{\an8}I heard he lost his voice or something.
+Dialogue: 0,0:14:32.60,0:14:35.10,Default,NTP,0000,0000,0000,,I don't have all the details,
+Dialogue: 0,0:14:35.35,0:14:38.31,Default,NTP,0000,0000,0000,,but I heard he, like, got hit in the neck,
+Dialogue: 0,0:14:38.31,0:14:42.44,Default,NTP,0000,0000,0000,,and when he yelled at the top of his lungs\Nat the end, that finished it off.
+Dialogue: 0,0:14:42.44,0:14:44.11,Default,NTP,0000,0000,0000,,And it did a number on his throat.
+Dialogue: 0,0:14:44.36,0:14:49.45,Default,NTP,0000,0000,0000,,He's depressed now, so it's made him\Ngentle, and it really cracks me up!
+Dialogue: 0,0:14:52.37,0:14:55.37,Default,NTP,0000,0000,0000,,Why are you cackling\Nin that creepy way all of a sudden?
+Dialogue: 0,0:14:56.25,0:14:57.37,Default,NTP,0000,0000,0000,,What's going on?
+Dialogue: 0,0:15:00.62,0:15:03.84,Default,NTP,0000,0000,0000,,I'm sorry for being so weak.
+Dialogue: 0,0:15:09.01,0:15:10.51,Default,NTP,0000,0000,0000,,Hang in there, Inosuke!
+Dialogue: 0,0:15:10.76,0:15:12.76,Default,NTP,0000,0000,0000,,It's not like you to get depressed!
+Dialogue: 0,0:15:12.76,0:15:15.97,Default,NTP,0000,0000,0000,,Come on, you did good!\NYou're awesome!
+Dialogue: 0,0:15:16.27,0:15:18.93,Default,NTP,0000,0000,0000,,I'm just so happy that you're alive!
+Dialogue: 0,0:15:19.98,0:15:21.52,Default,NTP,0000,0000,0000,,Did I take my morning meds?
+Dialogue: 0,0:15:21.52,0:15:23.77,Default,NTP,0000,0000,0000,,Did you see me take them?\NSomebody? Did you see?
+Dialogue: 0,0:15:23.77,0:15:26.65,Default,NTP,0000,0000,0000,,Somebody? Did you see?
+Dialogue: 0,0:15:39.25,0:15:40.58,Default,NTP,0000,0000,0000,,Zenitsu...
+Dialogue: 0,0:15:40.87,0:15:42.12,Default,NTP,0000,0000,0000,,Inosuke...
+Dialogue: 0,0:15:43.50,0:15:44.75,Default,NTP,0000,0000,0000,,Thank goodness.
+Dialogue: 0,0:15:45.42,0:15:46.67,Default,NTP,0000,0000,0000,,You're alive.
+Dialogue: 0,0:16:08.28,0:16:09.74,Default,NTP,0000,0000,0000,,It's all right now.
+Dialogue: 0,0:16:10.28,0:16:13.49,Default,NTP,0000,0000,0000,,They said you could use\Nthis room, Nezuko.
+Dialogue: 0,0:16:17.33,0:16:19.04,Default,NTP,0000,0000,0000,,{\an8}Ouch, ouch, ouch!
+Dialogue: 0,0:16:21.54,0:16:25.25,Default,NTP,0000,0000,0000,,{\an8}I really got roughed up\Non Mt. Natagumo.
+Dialogue: 0,0:16:26.29,0:16:27.92,Default,NTP,0000,0000,0000,,{\an8}It hurts a lot.
+Dialogue: 0,0:16:28.30,0:16:31.30,Default,NTP,0000,0000,0000,,{\an8}To be honest, it hurts like crazy.
+Dialogue: 0,0:16:32.47,0:16:33.59,Default,NTP,0000,0000,0000,,Nezuko...
+Dialogue: 0,0:16:34.80,0:16:38.06,Default,NTP,0000,0000,0000,,Thanks for protecting me\Non the mountain.
+Dialogue: 0,0:16:40.06,0:16:42.02,Default,NTP,0000,0000,0000,,Who would've guessed that not only you,
+Dialogue: 0,0:16:42.35,0:16:45.19,Default,NTP,0000,0000,0000,,but Mr. Urokodaki\Nand Mr. Tomioka, as well...
+Dialogue: 0,0:16:46.11,0:16:50.32,Default,NTP,0000,0000,0000,,They're all risking their lives for us.
+Dialogue: 0,0:16:51.36,0:16:53.57,Default,NTP,0000,0000,0000,,They're all taking care of us.
+Dialogue: 0,0:16:55.07,0:16:56.12,Default,NTP,0000,0000,0000,,I need to...
+Dialogue: 0,0:16:57.07,0:16:59.20,Default,NTP,0000,0000,0000,,become stronger.
+Dialogue: 0,0:17:02.08,0:17:03.37,Default,NTP,0000,0000,0000,,Even today...
+Dialogue: 0,0:17:03.96,0:17:09.25,Default,NTP,0000,0000,0000,,The Master more or less\Nsaved both your life and mine.
+Dialogue: 0,0:17:11.38,0:17:13.13,Default,NTP,0000,0000,0000,,That man's voice...
+Dialogue: 0,0:17:13.92,0:17:16.18,Default,NTP,0000,0000,0000,,It was so soothing in a mysterious way.
+Dialogue: 0,0:17:17.39,0:17:21.81,Default,NTP,0000,0000,0000,,Just listening to him speak\Nmade my head feel light.
+Dialogue: 0,0:17:22.93,0:17:24.64,Default,NTP,0000,0000,0000,,{\an8}I wonder what kind of person he is.
+Dialogue: 0,0:17:37.53,0:17:38.66,Default,NTP,0000,0000,0000,,Oh, right.
+Dialogue: 0,0:17:39.12,0:17:41.95,Default,NTP,0000,0000,0000,,You're sleep-deprived, aren't you?
+Dialogue: 0,0:17:44.00,0:17:46.54,Default,NTP,0000,0000,0000,,{\an8}I'm hurting, and this is tough,
+Dialogue: 0,0:17:46.96,0:17:49.00,Default,NTP,0000,0000,0000,,{\an8}but I gotta keep on fighting.
+Dialogue: 0,0:17:49.25,0:17:50.34,Default,NTP,0000,0000,0000,,{\an8}Because...
+Dialogue: 0,0:17:51.13,0:17:53.34,Default,NTP,0000,0000,0000,,{\an8}I'll be a grown man one day.
+Dialogue: 0,0:17:53.63,0:17:54.67,Default,NTP,0000,0000,0000,,{\an8}And then,
+Dialogue: 0,0:17:55.30,0:17:57.64,Default,NTP,0000,0000,0000,,{\an8}I'll become an old guy and die.
+Dialogue: 0,0:17:58.93,0:18:00.22,Default,NTP,0000,0000,0000,,{\an8}And then,
+Dialogue: 0,0:18:00.76,0:18:03.35,Default,NTP,0000,0000,0000,,{\an8}the demon Nezuko will end up all alone.
+Dialogue: 0,0:18:05.52,0:18:09.15,Default,NTP,0000,0000,0000,,That would be too lonely,\Nwouldn't it, Nezuko?
+Dialogue: 0,0:18:11.77,0:18:16.36,Default,NTP,0000,0000,0000,,I promise you I'll turn you\Nback into a human, okay?
+Dialogue: 0,0:18:23.41,0:18:25.70,Default,NTP,0000,0000,0000,,Just as you've all reported,
+Dialogue: 0,0:18:25.96,0:18:29.33,Default,NTP,0000,0000,0000,,the demons' carnage\Nhas increased more than ever.
+Dialogue: 0,0:18:29.67,0:18:34.34,Default,NTP,0000,0000,0000,,Meaning that the threat to human life\Nis greater than it's ever been.
+Dialogue: 0,0:18:35.01,0:18:37.80,Default,NTP,0000,0000,0000,,We'll have to bolster the ranks\Nof the Demon Slayers.
+Dialogue: 0,0:18:38.05,0:18:39.80,Default,NTP,0000,0000,0000,,What do you all think?
+Dialogue: 0,0:18:41.10,0:18:44.10,Default,NTP,0000,0000,0000,,The incident on Mt. Natagumo\Nmade it crystal clear.
+Dialogue: 0,0:18:44.60,0:18:48.02,Default,NTP,0000,0000,0000,,The caliber of Demon Slayers\Nhas nose-dived to unbelievable levels.
+Dialogue: 0,0:18:48.27,0:18:49.94,Default,NTP,0000,0000,0000,,Most of them are useless.
+Dialogue: 0,0:18:50.90,0:18:53.86,Default,NTP,0000,0000,0000,,The trainers must be blind.
+Dialogue: 0,0:18:54.36,0:18:58.61,Default,NTP,0000,0000,0000,,You'd think they could at least tell\Nif someone's competent or not.
+Dialogue: 0,0:18:58.95,0:19:02.03,Default,NTP,0000,0000,0000,,Well, that kid today\Nsure seemed competent.
+Dialogue: 0,0:19:02.58,0:19:06.79,Default,NTP,0000,0000,0000,,He did land that flamboyant blow on you,\NShinazugawa. He's got potential.
+Dialogue: 0,0:19:08.58,0:19:11.08,Default,NTP,0000,0000,0000,,The more the human population increases,
+Dialogue: 0,0:19:11.08,0:19:14.30,Default,NTP,0000,0000,0000,,the harder it becomes\Nto control and unify them.
+Dialogue: 0,0:19:14.92,0:19:19.05,Default,NTP,0000,0000,0000,,Not to mention that the times\Nhave changed considerably in this era.
+Dialogue: 0,0:19:19.72,0:19:23.76,Default,NTP,0000,0000,0000,,Other than those who've had their loved ones\Nbrutally massacred, and joined the Corps,
+Dialogue: 0,0:19:23.76,0:19:27.73,Default,NTP,0000,0000,0000,,or those of distinguished pedigree\Nwho have hunted demons for generations,
+Dialogue: 0,0:19:27.73,0:19:30.35,Default,NTP,0000,0000,0000,,to ask anyone to harness as much
+Dialogue: 0,0:19:30.35,0:19:36.03,Default,NTP,0000,0000,0000,,or even greater resolve and drive\Nto produce results would be cruel.
+Dialogue: 0,0:19:36.44,0:19:41.95,Default,NTP,0000,0000,0000,,Still, considering that boy ran into a Twelve Kizuki\Nso soon after joining the Corps...
+Dialogue: 0,0:19:41.95,0:19:44.03,Default,NTP,0000,0000,0000,,He may have the power to draw them!
+Dialogue: 0,0:19:44.28,0:19:48.95,Default,NTP,0000,0000,0000,,Even we rarely get the chance\Nto confront one! It makes me envious!
+Dialogue: 0,0:19:50.00,0:19:51.46,Default,NTP,0000,0000,0000,,Agreed.
+Dialogue: 0,0:19:51.96,0:19:57.59,Default,NTP,0000,0000,0000,,But the fact that Lower Five\Nmade such a drastic move
+Dialogue: 0,0:19:57.59,0:20:01.18,Default,NTP,0000,0000,0000,,probably means that Muzan\Nis nowhere near Mt. Natagumo.
+Dialogue: 0,0:20:02.26,0:20:04.09,Default,NTP,0000,0000,0000,,After all, as in the case of Asakusa,
+Dialogue: 0,0:20:04.35,0:20:06.76,Default,NTP,0000,0000,0000,,whenever Muzan wishes\Nto hide something,
+Dialogue: 0,0:20:06.76,0:20:11.23,Default,NTP,0000,0000,0000,,he creates a clever diversion\Nto throw us off.
+Dialogue: 0,0:20:12.06,0:20:14.65,Default,NTP,0000,0000,0000,,It's really quite frustrating.
+Dialogue: 0,0:20:16.73,0:20:24.49,Default,NTP,0000,0000,0000,,But those demons are still freely devouring\Nhumans, gaining strength and surviving.
+Dialogue: 0,0:20:25.24,0:20:30.25,Default,NTP,0000,0000,0000,,For the sake of those who have died,\Nthere is only one thing for us to do.
+Dialogue: 0,0:20:31.41,0:20:35.63,Default,NTP,0000,0000,0000,,I believe that among you Hashiras\Nwho are present today,
+Dialogue: 0,0:20:35.63,0:20:41.42,Default,NTP,0000,0000,0000,,I've assembled the finest unit since\Nthe First Breathing swordsmen of the feudal era.
+Dialogue: 0,0:20:42.34,0:20:43.93,Default,NTP,0000,0000,0000,,Tengen Uzui.
+Dialogue: 0,0:20:44.47,0:20:46.43,Default,NTP,0000,0000,0000,,Kyojuro Rengoku.
+Dialogue: 0,0:20:46.93,0:20:48.56,Default,NTP,0000,0000,0000,,Shinobu Kocho.
+Dialogue: 0,0:20:49.06,0:20:50.68,Default,NTP,0000,0000,0000,,Mitsuri Kanroji.
+Dialogue: 0,0:20:51.18,0:20:53.19,Default,NTP,0000,0000,0000,,Muichiro Tokito.
+Dialogue: 0,0:20:53.77,0:20:55.56,Default,NTP,0000,0000,0000,,Gyomei Himejima.
+Dialogue: 0,0:20:56.11,0:20:57.94,Default,NTP,0000,0000,0000,,Sanemi Shinazugawa.
+Dialogue: 0,0:20:58.48,0:21:00.07,Default,NTP,0000,0000,0000,,Obanai Iguro.
+Dialogue: 0,0:21:00.57,0:21:02.15,Default,NTP,0000,0000,0000,,Giyu Tomioka.
+Dialogue: 0,0:21:03.78,0:21:05.66,Default,NTP,0000,0000,0000,,{\an8}My children,
+Dialogue: 0,0:21:06.28,0:21:08.87,Default,NTP,0000,0000,0000,,{\an8}I look forward to your success.
+Dialogue: 0,0:21:19.21,0:21:20.88,Default,NTP,0000,0000,0000,,Muzan Kibutsuji,
+Dialogue: 0,0:21:21.55,0:21:24.18,Default,NTP,0000,0000,0000,,I swear I'll defeat you\Nif it's the last thing that I do.
+Dialogue: 0,0:21:25.89,0:21:28.89,Default,NTP,0000,0000,0000,,{\an8}We will bring you down without fail.
+Dialogue: 0,0:23:01.19,0:23:17.29,Default,NTP,0000,0000,0000,,{\an6}PREVIEW
+Dialogue: 0,0:23:02.27,0:23:05.44,Default,NTP,0000,0000,0000,,I still find it hard to believe\Nthat some demons don't attack humans.
+Dialogue: 0,0:23:05.44,0:23:07.15,Default,NTP,0000,0000,0000,,It must be a miracle or something.
+Dialogue: 0,0:23:07.15,0:23:11.74,Default,NTP,0000,0000,0000,,If you're gonna go there, then,\Nus trying to find a clue about Kibutsuji is...
+Dialogue: 0,0:23:11.74,0:23:13.99,Default,NTP,0000,0000,0000,,well, what you call a "millennial miracle"!
+Dialogue: 0,0:23:14.70,0:23:17.29,Default,NTP,0000,0000,0000,,That's a typical and flamboyant\Nidea if I ever heard one!
+Dialogue: 0,0:23:17.54,0:23:19.92,Default,NTP,0000,0000,0000,,Now, it's time for a Taisho secret!
+Dialogue: 0,0:23:20.25,0:23:23.71,Default,NTP,0000,0000,0000,,I hear that the Master is the 97th leader\Nof the Demon Slayer Corps!
+Dialogue: 0,0:23:24.04,0:23:25.80,Default,NTP,0000,0000,0000,,To make sure we don't squander\Nthis opportunity,
+Dialogue: 0,0:23:25.80,0:23:29.22,Default,NTP,0000,0000,0000,,we Hashiras need to be the glue that holds\Nthe Demon Slayer Corps together!
+Dialogue: 0,0:23:29.22,0:23:31.22,Default,NTP,0000,0000,0000,,Are you mentally prepared\Nfor that, Sound Hashira?
+Dialogue: 0,0:23:31.22,0:23:33.30,Default,NTP,0000,0000,0000,,You don't have to remind me,\NFire Hashira!
+Dialogue: 0,0:23:33.30,0:23:36.93,Default,NTP,0000,0000,0000,,Next, Episode 24,\N"Rehabilitation Training"!
+Dialogue: 0,0:23:36.93,0:23:40.06,Default,NTP,0000,0000,0000,,TO BE CONTINUED
