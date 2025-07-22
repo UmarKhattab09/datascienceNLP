@@ -5,3 +5,6 @@ nltk
 gradio
 seaborn
 matplotlib
+spacy
+pyvis
+numpy==1.26.1
