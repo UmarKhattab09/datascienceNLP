@@ -14,5 +14,12 @@ def load_subtitles(dataset_path):
     lines = [line.replace('\\N',' ' ) for line in lines]
     scripts.append(" ".join(lines))
     episodenums.append(int(files.split('-')[-1].split('[')[0]))
-    df=pd.DataFrame.from_dict({'episode':episodenums,'script':scripts})
-  return df
+        # Defensive check before creating dataframe
+    if not scripts or not episodenums:
+      raise ValueError("No valid subtitle scripts or episode numbers were parsed.")
+
+  dataframe = pd.DataFrame({'episode': episodenums, 'script': scripts})
+  return dataframe
+
+
+
